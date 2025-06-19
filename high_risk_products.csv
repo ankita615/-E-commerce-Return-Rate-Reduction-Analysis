@@ -1,0 +1,1001 @@
+order_id,category,region,marketing_channel,supplier,quantity,sales,is_returned,return_risk_score
+1,Sports,South,Direct,Supplier A,1,176.4,0,33.74
+2,Sports,West,Email,Supplier C,3,81.33,0,30.89
+3,Beauty,North,Direct,Supplier A,1,232.34,0,37.58
+4,Clothing,North,Email,Supplier C,1,40.39,0,36.93
+5,Sports,West,Referral,Supplier A,4,348.62,0,26.96
+6,Home,North,Referral,Supplier C,2,453.3,1,30.66
+7,Electronics,South,Email,Supplier A,4,421.89,0,25.71
+8,Electronics,South,Email,Supplier A,2,81.14,1,28.64
+9,Electronics,East,Email,Supplier C,3,80.61,1,26.53
+10,Clothing,North,Referral,Supplier B,1,410.45,0,31.95
+11,Beauty,East,Social Media,Supplier C,3,463.64,0,34.87
+12,Sports,North,Direct,Supplier B,2,241.12,1,26.7
+13,Home,South,Direct,Supplier A,4,259.51,0,29.49
+14,Home,South,Referral,Supplier C,4,172.77,0,26.29
+15,Clothing,South,Direct,Supplier C,3,449.25,1,37.64
+16,Electronics,North,Email,Supplier C,2,329.55,0,29.21
+17,Clothing,South,Social Media,Supplier B,3,158.36,0,30.92
+18,Beauty,North,Direct,Supplier B,3,163.42,1,28.66
+19,Beauty,East,Social Media,Supplier A,1,447.78,0,38.96
+20,Sports,North,Email,Supplier B,3,26.54,0,22.08
+21,Sports,East,Direct,Supplier B,1,174.91,0,29.36
+22,Beauty,North,Referral,Supplier A,1,286.09,0,33.63
+23,Beauty,East,Social Media,Supplier C,4,91.14,1,30.56
+24,Beauty,South,Email,Supplier C,1,64.21,1,37.33
+25,Clothing,East,Social Media,Supplier A,1,411.33,0,40.23
+26,Beauty,South,Direct,Supplier C,4,449.31,0,33.67
+27,Home,South,Direct,Supplier B,3,415.33,0,29.13
+28,Electronics,East,Referral,Supplier A,2,451.42,0,27.64
+29,Beauty,North,Email,Supplier A,2,285.49,0,33.22
+30,Electronics,North,Email,Supplier A,2,409.88,0,28.66
+31,Clothing,West,Referral,Supplier C,3,204.34,0,35.82
+32,Electronics,North,Referral,Supplier A,1,339.81,1,28.71
+33,Clothing,West,Email,Supplier A,2,494.64,1,41.18
+34,Home,North,Social Media,Supplier A,3,128.35,1,29.19
+35,Clothing,North,Social Media,Supplier C,1,207.15,0,39.38
+36,Clothing,South,Referral,Supplier B,4,250.42,1,25.81
+37,Sports,West,Social Media,Supplier A,2,86.25,0,33.84
+38,Beauty,North,Email,Supplier B,1,58.9,0,30.97
+39,Beauty,West,Direct,Supplier C,2,418.27,0,42.58
+40,Home,South,Direct,Supplier C,2,488.86,0,36.57
+41,Home,South,Social Media,Supplier C,2,214.27,1,34.6
+42,Beauty,West,Referral,Supplier C,1,62.07,0,38.91
+43,Sports,South,Referral,Supplier B,3,51.59,0,21.81
+44,Beauty,East,Referral,Supplier A,1,447.83,0,35.22
+45,Sports,East,Referral,Supplier C,2,242.63,0,27.89
+46,Home,South,Referral,Supplier C,1,173.61,0,33.32
+47,Electronics,East,Social Media,Supplier B,4,248.7,0,22.5
+48,Home,North,Direct,Supplier B,3,172.79,0,26.58
+49,Home,West,Direct,Supplier C,1,254.74,0,41.83
+50,Clothing,North,Social Media,Supplier A,4,432.59,1,31.8
+51,Clothing,West,Referral,Supplier A,3,304.3,0,35.3
+52,Clothing,South,Social Media,Supplier C,4,353.43,0,34.01
+53,Clothing,North,Direct,Supplier B,3,195.04,0,30.07
+54,Sports,South,Email,Supplier C,1,374.48,1,33.72
+55,Beauty,South,Social Media,Supplier C,4,339.98,0,32.59
+56,Electronics,West,Referral,Supplier B,2,77.39,0,26.67
+57,Home,West,Direct,Supplier C,4,294.87,0,34.13
+58,Sports,West,Direct,Supplier C,3,143.24,0,33.17
+59,Electronics,North,Direct,Supplier C,1,405.97,0,33.96
+60,Sports,East,Direct,Supplier B,3,224.45,1,25.14
+61,Sports,West,Referral,Supplier A,4,497.45,1,27.62
+62,Home,West,Email,Supplier A,4,64.4,0,30.05
+63,Beauty,North,Direct,Supplier B,2,394.57,0,32.13
+64,Clothing,West,Social Media,Supplier A,1,343.38,0,44.72
+65,Beauty,North,Email,Supplier C,1,388.4,1,37.33
+66,Home,South,Direct,Supplier A,4,167.61,0,29.06
+67,Home,West,Email,Supplier C,1,256.19,0,39.65
+68,Home,West,Social Media,Supplier A,2,402.32,0,38.27
+69,Electronics,South,Direct,Supplier B,3,131.62,0,25.2
+70,Beauty,South,Social Media,Supplier A,1,128.5,0,38.17
+71,Beauty,South,Referral,Supplier A,4,284.5,0,27.99
+72,Sports,West,Direct,Supplier A,3,271.31,0,32.81
+73,Sports,East,Direct,Supplier B,3,155.49,1,24.85
+74,Sports,East,Direct,Supplier A,2,163.08,0,30.4
+75,Home,East,Direct,Supplier B,4,153.37,0,25.0
+76,Beauty,West,Referral,Supplier C,1,390.33,0,40.67
+77,Home,South,Direct,Supplier A,4,332.91,0,29.83
+78,Electronics,West,Email,Supplier B,3,419.56,0,27.83
+79,Sports,South,Direct,Supplier B,4,488.23,0,24.85
+80,Home,West,Referral,Supplier A,1,247.6,0,36.33
+81,Home,West,Direct,Supplier C,1,52.01,0,40.73
+82,Electronics,South,Email,Supplier B,2,43.08,0,25.23
+83,Clothing,East,Referral,Supplier A,1,161.92,1,35.15
+84,Beauty,South,Referral,Supplier C,1,467.62,0,37.25
+85,Clothing,North,Email,Supplier B,4,271.14,0,26.31
+86,Sports,North,Email,Supplier B,4,150.46,1,20.66
+87,Home,South,Email,Supplier C,3,211.6,0,30.66
+88,Electronics,West,Email,Supplier C,2,307.33,0,34.16
+89,Electronics,North,Email,Supplier A,4,333.42,0,23.98
+90,Beauty,North,Referral,Supplier A,1,93.88,0,32.67
+91,Clothing,West,Referral,Supplier B,3,488.98,0,32.54
+92,Beauty,West,Direct,Supplier C,4,281.49,0,36.49
+93,Home,East,Direct,Supplier C,2,85.13,0,33.64
+94,Beauty,West,Social Media,Supplier C,2,448.94,1,42.15
+95,Electronics,South,Direct,Supplier B,3,55.83,0,24.88
+96,Electronics,South,Direct,Supplier C,3,455.71,0,30.88
+97,Sports,East,Email,Supplier C,3,498.35,0,28.68
+98,Sports,North,Email,Supplier B,3,356.21,0,23.38
+99,Home,North,Direct,Supplier A,3,389.81,0,30.94
+100,Clothing,West,Social Media,Supplier A,1,181.91,1,43.83
+101,Beauty,South,Email,Supplier B,1,471.96,0,34.61
+102,Home,North,Direct,Supplier C,4,274.26,0,28.98
+103,Sports,East,Direct,Supplier B,2,371.55,0,27.97
+104,Beauty,East,Referral,Supplier A,1,463.57,1,35.3
+105,Sports,South,Social Media,Supplier A,1,488.09,0,34.77
+106,Beauty,East,Referral,Supplier B,1,419.94,1,31.43
+107,Clothing,East,Social Media,Supplier B,4,165.45,0,27.83
+108,Home,South,Email,Supplier A,3,483.94,0,31.01
+109,Beauty,West,Social Media,Supplier B,4,321.5,0,31.45
+110,Electronics,West,Direct,Supplier A,2,466.71,1,36.02
+111,Electronics,East,Direct,Supplier B,2,344.53,0,27.57
+112,Beauty,West,Social Media,Supplier B,2,167.47,1,35.68
+113,Beauty,West,Social Media,Supplier B,2,197.61,1,35.84
+114,Beauty,East,Social Media,Supplier A,1,284.23,0,38.1
+115,Electronics,West,Referral,Supplier B,1,399.21,1,30.43
+116,Electronics,East,Social Media,Supplier A,4,172.63,0,25.18
+117,Beauty,North,Email,Supplier A,3,298.27,0,30.83
+118,Sports,South,Referral,Supplier B,2,185.9,0,24.34
+119,Sports,South,Referral,Supplier B,4,411.57,0,21.28
+120,Clothing,West,Social Media,Supplier A,1,244.03,0,44.17
+121,Home,West,Email,Supplier A,1,56.83,1,37.53
+122,Sports,West,Referral,Supplier C,3,99.71,0,29.01
+123,Electronics,South,Direct,Supplier A,3,49.33,0,28.05
+124,Sports,North,Referral,Supplier C,3,259.67,1,25.1
+125,Clothing,North,Social Media,Supplier C,4,71.04,0,31.02
+126,Clothing,South,Email,Supplier C,1,74.79,0,38.82
+127,Home,North,Social Media,Supplier B,1,471.7,0,32.11
+128,Sports,South,Direct,Supplier B,3,438.87,0,26.79
+129,Electronics,North,Direct,Supplier A,2,237.0,1,29.73
+130,Electronics,East,Direct,Supplier C,3,493.19,0,30.25
+131,Beauty,East,Social Media,Supplier B,4,20.09,1,25.99
+132,Electronics,South,Referral,Supplier B,3,314.71,0,22.59
+133,Home,North,Social Media,Supplier B,3,315.89,0,26.73
+134,Home,West,Email,Supplier B,4,239.57,1,27.48
+135,Electronics,North,Referral,Supplier B,3,210.54,0,20.95
+136,Electronics,East,Direct,Supplier C,1,238.58,1,33.9
+137,Beauty,East,Social Media,Supplier C,2,219.18,1,36.18
+138,Electronics,North,Direct,Supplier C,3,370.64,0,28.96
+139,Beauty,North,Direct,Supplier C,4,84.97,1,30.31
+140,Beauty,West,Email,Supplier A,2,114.87,0,37.69
+141,Electronics,West,Referral,Supplier C,4,106.65,0,26.51
+142,Clothing,North,Email,Supplier B,2,145.99,1,30.29
+143,Clothing,North,Email,Supplier C,2,272.12,0,35.54
+144,Beauty,North,Email,Supplier A,3,73.38,0,29.77
+145,Electronics,North,Direct,Supplier B,1,436.72,0,29.57
+146,Clothing,South,Email,Supplier C,3,162.73,0,34.08
+147,Electronics,North,Email,Supplier C,4,98.02,0,23.84
+148,Electronics,West,Referral,Supplier C,4,344.3,0,27.56
+149,Electronics,East,Referral,Supplier B,2,38.28,1,22.8
+150,Sports,South,Email,Supplier B,2,317.58,0,26.68
+151,Electronics,North,Referral,Supplier A,1,355.14,0,28.78
+152,Sports,East,Referral,Supplier B,3,123.16,0,21.44
+153,Beauty,South,Email,Supplier B,4,40.14,0,25.54
+154,Clothing,East,Direct,Supplier C,2,194.55,0,38.04
+155,Clothing,North,Email,Supplier B,1,67.33,0,32.33
+156,Clothing,North,Referral,Supplier C,4,75.91,0,27.72
+157,Clothing,West,Direct,Supplier C,2,142.05,1,42.55
+158,Clothing,North,Social Media,Supplier B,4,161.82,0,27.13
+159,Clothing,North,Direct,Supplier A,1,274.39,0,39.25
+160,Clothing,South,Referral,Supplier A,1,345.63,1,36.98
+161,Beauty,West,Direct,Supplier B,4,304.53,1,31.89
+162,Electronics,South,Email,Supplier A,3,91.21,0,26.44
+163,Home,East,Social Media,Supplier C,4,102.6,0,28.4
+164,Sports,North,Social Media,Supplier C,2,441.81,0,31.44
+165,Home,East,Social Media,Supplier B,3,288.01,0,27.28
+166,Home,South,Referral,Supplier A,2,437.57,0,31.17
+167,Electronics,North,Referral,Supplier A,4,198.34,0,21.78
+168,Electronics,North,Social Media,Supplier C,3,314.91,0,28.2
+169,Electronics,South,Direct,Supplier B,2,271.36,0,28.0
+170,Clothing,South,Social Media,Supplier A,4,173.18,0,32.12
+171,Beauty,South,Direct,Supplier B,4,245.56,0,28.22
+172,Clothing,South,Direct,Supplier A,3,261.2,1,35.62
+173,Beauty,South,Referral,Supplier C,4,116.37,0,28.14
+174,Beauty,North,Direct,Supplier C,1,171.2,1,38.32
+175,Home,South,Social Media,Supplier B,2,399.88,1,30.9
+176,Home,North,Referral,Supplier C,2,459.58,0,30.69
+177,Beauty,North,Email,Supplier A,4,192.7,0,28.01
+178,Beauty,South,Email,Supplier C,4,167.35,0,30.33
+179,Clothing,South,Referral,Supplier B,1,113.69,0,32.09
+180,Clothing,West,Social Media,Supplier B,3,345.68,0,35.42
+181,Home,North,Email,Supplier B,4,175.09,0,22.82
+182,Electronics,South,Email,Supplier A,4,494.12,0,26.02
+183,Beauty,South,Direct,Supplier A,4,176.33,1,31.34
+184,Clothing,South,Direct,Supplier A,4,209.19,0,32.83
+185,Home,West,Social Media,Supplier A,2,309.6,1,37.78
+186,Clothing,West,Referral,Supplier A,4,404.81,1,33.28
+187,Beauty,East,Social Media,Supplier C,2,245.37,0,36.32
+188,Beauty,North,Referral,Supplier A,4,222.87,0,26.28
+189,Sports,East,Email,Supplier A,3,497.91,0,27.77
+190,Electronics,South,Direct,Supplier C,1,25.04,1,33.68
+191,Sports,West,Social Media,Supplier A,3,449.63,0,33.15
+192,Home,West,Social Media,Supplier B,4,91.59,1,28.15
+193,Clothing,East,Referral,Supplier A,4,397.24,0,28.97
+194,Home,West,Referral,Supplier A,4,316.61,0,29.27
+195,Beauty,South,Social Media,Supplier B,3,184.09,1,29.75
+196,Sports,West,Referral,Supplier B,4,439.46,0,24.22
+197,Sports,East,Social Media,Supplier B,3,26.2,0,23.86
+198,Sports,South,Social Media,Supplier B,2,128.81,0,27.16
+199,Home,East,Social Media,Supplier A,1,292.11,0,35.66
+200,Beauty,West,Email,Supplier B,1,188.74,0,36.86
+201,Clothing,East,Referral,Supplier B,3,312.98,0,27.53
+202,Clothing,East,Direct,Supplier C,2,31.57,1,37.19
+203,Home,North,Direct,Supplier B,3,75.9,0,26.15
+204,Sports,West,Referral,Supplier B,2,81.01,0,26.96
+205,Electronics,West,Social Media,Supplier C,4,110.86,1,29.77
+206,Home,East,Direct,Supplier C,2,240.48,0,34.42
+207,Home,North,Direct,Supplier A,2,381.02,0,33.35
+208,Beauty,West,Referral,Supplier C,2,454.66,1,38.33
+209,Clothing,South,Direct,Supplier A,1,420.98,0,41.79
+210,Home,East,Social Media,Supplier C,2,114.51,0,33.24
+211,Home,West,Referral,Supplier C,4,231.75,0,29.81
+212,Sports,South,Social Media,Supplier A,4,115.72,1,25.93
+213,Sports,West,Direct,Supplier C,4,146.95,1,30.74
+214,Electronics,South,Direct,Supplier A,2,261.7,0,31.39
+215,Beauty,East,Social Media,Supplier C,3,52.69,0,32.8
+216,Electronics,West,Email,Supplier B,3,124.72,0,26.52
+217,Sports,West,Direct,Supplier C,4,468.98,0,32.3
+218,Clothing,North,Email,Supplier A,1,243.74,0,36.95
+219,Sports,East,Direct,Supplier C,3,233.79,0,29.32
+220,Beauty,South,Email,Supplier A,2,26.99,1,33.54
+221,Sports,West,Email,Supplier A,3,138.75,0,30.21
+222,Beauty,West,Email,Supplier B,4,435.82,1,30.58
+223,Beauty,South,Social Media,Supplier B,1,99.02,0,34.22
+224,Beauty,East,Email,Supplier A,3,219.26,0,31.19
+225,Beauty,North,Email,Supplier C,3,26.88,0,30.5
+226,Beauty,North,Email,Supplier A,4,249.6,0,28.27
+227,Clothing,West,Direct,Supplier A,1,30.09,0,43.59
+228,Electronics,South,Email,Supplier C,1,413.41,1,33.6
+229,Home,West,Direct,Supplier C,4,415.93,1,34.74
+230,Electronics,South,Email,Supplier C,2,398.12,0,31.07
+231,Beauty,North,Email,Supplier C,3,156.01,0,31.11
+232,Clothing,East,Social Media,Supplier A,2,421.87,0,37.61
+233,Sports,South,Direct,Supplier A,3,280.64,1,29.4
+234,Clothing,North,Email,Supplier B,3,199.43,1,28.22
+235,Beauty,West,Direct,Supplier A,2,320.16,0,40.95
+236,Clothing,South,Direct,Supplier C,4,25.92,1,32.91
+237,Clothing,East,Referral,Supplier B,4,88.62,0,24.41
+238,Beauty,West,Social Media,Supplier C,3,376.3,0,39.05
+239,Clothing,West,Social Media,Supplier A,4,137.2,0,35.54
+240,Home,North,Social Media,Supplier B,3,307.04,1,26.69
+241,Home,South,Referral,Supplier C,4,204.85,0,26.43
+242,Clothing,West,Referral,Supplier B,3,430.31,1,32.25
+243,Sports,East,Social Media,Supplier B,4,477.16,0,23.66
+244,Beauty,South,Referral,Supplier A,1,444.11,1,36.08
+245,Home,East,Referral,Supplier C,2,149.9,1,29.95
+246,Sports,West,Referral,Supplier B,1,113.2,0,29.38
+247,Clothing,East,Social Media,Supplier B,2,247.73,0,32.97
+248,Sports,North,Social Media,Supplier C,2,23.52,1,29.45
+249,Electronics,East,Social Media,Supplier B,3,32.39,0,23.63
+250,Home,South,Referral,Supplier B,2,285.58,1,27.08
+251,Clothing,East,Social Media,Supplier B,1,269.82,0,35.61
+252,Beauty,East,Referral,Supplier C,1,497.4,0,36.52
+253,Clothing,North,Email,Supplier C,4,116.88,1,29.84
+254,Beauty,East,Referral,Supplier C,1,143.89,0,34.7
+255,Clothing,East,Direct,Supplier C,4,74.5,0,32.32
+256,Sports,West,Social Media,Supplier A,2,460.42,0,35.74
+257,Sports,West,Social Media,Supplier B,1,393.35,1,34.21
+258,Sports,South,Direct,Supplier C,2,414.72,0,33.43
+259,Electronics,West,Referral,Supplier B,1,453.33,0,30.69
+260,Beauty,West,Email,Supplier B,1,271.95,0,37.29
+261,Sports,West,Direct,Supplier A,4,236.57,1,30.22
+262,Electronics,West,Direct,Supplier C,2,178.59,0,35.57
+263,Beauty,North,Referral,Supplier C,1,302.82,1,34.72
+264,Clothing,West,Social Media,Supplier B,3,238.05,1,34.87
+265,Electronics,North,Referral,Supplier C,2,236.75,0,26.9
+266,Home,North,Direct,Supplier B,2,469.73,0,30.21
+267,Electronics,West,Direct,Supplier B,2,492.34,1,32.44
+268,Electronics,East,Social Media,Supplier A,4,402.31,0,26.16
+269,Beauty,North,Social Media,Supplier A,3,383.24,0,32.68
+270,Clothing,East,Social Media,Supplier A,2,346.67,1,37.22
+271,Home,East,Referral,Supplier B,1,99.72,0,27.72
+272,Sports,West,Social Media,Supplier C,1,48.37,1,37.25
+273,Sports,South,Direct,Supplier A,4,351.55,0,27.44
+274,Electronics,West,Direct,Supplier C,1,369.82,0,39.2
+275,Beauty,South,Email,Supplier A,2,42.55,0,33.62
+276,Beauty,South,Referral,Supplier A,1,465.46,1,36.19
+277,Sports,West,Email,Supplier B,2,63.75,0,28.77
+278,Home,West,Direct,Supplier A,1,157.23,0,40.22
+279,Clothing,South,Email,Supplier A,3,342.75,0,33.98
+280,Home,West,Direct,Supplier B,4,101.54,0,28.69
+281,Clothing,South,Email,Supplier C,4,46.6,0,31.04
+282,Sports,East,Social Media,Supplier A,3,178.95,0,27.66
+283,Clothing,West,Email,Supplier B,3,387.67,0,34.13
+284,Beauty,East,Social Media,Supplier A,4,218.57,0,30.21
+285,Electronics,North,Social Media,Supplier B,3,333.43,0,24.23
+286,Electronics,East,Referral,Supplier C,2,298.22,1,27.86
+287,Sports,East,Social Media,Supplier C,1,30.66,1,32.63
+288,Beauty,South,Social Media,Supplier B,4,494.5,0,28.87
+289,Home,East,Email,Supplier B,3,39.89,0,24.93
+290,Beauty,West,Direct,Supplier B,2,484.55,1,37.9
+291,Electronics,South,Referral,Supplier C,4,283.93,0,24.21
+292,Electronics,North,Social Media,Supplier A,3,482.32,1,28.05
+293,Beauty,West,Referral,Supplier C,4,75.08,0,31.32
+294,Beauty,North,Email,Supplier B,3,255.4,0,27.25
+295,Electronics,East,Social Media,Supplier B,4,101.36,1,21.93
+296,Home,West,Email,Supplier C,2,44.47,0,35.9
+297,Sports,West,Referral,Supplier B,2,316.41,0,28.01
+298,Sports,North,Email,Supplier C,1,119.74,1,30.88
+299,Beauty,West,Referral,Supplier B,4,302.09,1,28.01
+300,Sports,West,Email,Supplier A,1,73.93,0,34.82
+301,Electronics,West,Referral,Supplier A,4,179.35,0,25.95
+302,Electronics,East,Direct,Supplier B,3,395.18,0,25.6
+303,Beauty,North,Email,Supplier C,3,229.78,1,31.47
+304,Beauty,West,Email,Supplier A,1,321.32,1,41.48
+305,Beauty,South,Direct,Supplier C,4,330.78,1,33.08
+306,Home,South,Direct,Supplier B,1,425.0,0,34.02
+307,Sports,South,Email,Supplier C,2,175.96,0,30.31
+308,Beauty,South,Direct,Supplier A,1,349.9,0,39.93
+309,Clothing,East,Social Media,Supplier C,1,481.58,0,41.7
+310,Clothing,West,Referral,Supplier C,3,370.52,0,36.68
+311,Electronics,North,Referral,Supplier B,1,255.14,0,25.1
+312,Sports,West,Referral,Supplier B,4,322.74,0,23.74
+313,Beauty,East,Social Media,Supplier B,3,375.05,0,29.85
+314,Clothing,South,Direct,Supplier A,1,313.89,0,41.21
+315,Sports,East,Direct,Supplier A,2,28.0,0,29.76
+316,Electronics,West,Email,Supplier B,1,113.49,1,31.07
+317,Home,North,Direct,Supplier B,1,409.02,1,32.33
+318,Sports,East,Email,Supplier A,1,150.87,0,30.8
+319,Sports,North,Social Media,Supplier A,3,371.15,1,27.83
+320,Home,East,Referral,Supplier A,4,198.62,0,24.82
+321,Sports,North,Referral,Supplier A,2,270.5,0,26.44
+322,Electronics,North,Referral,Supplier B,1,52.63,0,24.26
+323,Electronics,South,Direct,Supplier A,4,106.99,0,26.09
+324,Home,North,Email,Supplier B,4,479.45,0,24.04
+325,Beauty,South,Email,Supplier C,3,447.27,0,34.15
+326,Clothing,West,Social Media,Supplier C,2,333.09,0,43.01
+327,Beauty,West,Direct,Supplier A,3,240.63,0,37.84
+328,Sports,South,Social Media,Supplier C,4,344.37,1,27.82
+329,Clothing,South,Email,Supplier C,4,316.93,0,32.36
+330,Home,East,Email,Supplier C,4,292.91,0,27.93
+331,Home,East,Referral,Supplier A,3,48.4,1,26.31
+332,Clothing,East,Direct,Supplier A,2,323.75,0,37.67
+333,Electronics,West,Email,Supplier C,1,389.08,0,37.16
+334,Clothing,East,Referral,Supplier B,3,497.16,0,28.36
+335,Sports,North,Direct,Supplier C,4,25.32,0,25.48
+336,Electronics,North,Social Media,Supplier A,3,370.48,0,27.55
+337,Home,East,Direct,Supplier A,4,294.46,0,28.86
+338,Clothing,North,Direct,Supplier A,1,228.35,1,39.0
+339,Beauty,West,Email,Supplier C,1,81.23,1,41.27
+340,Beauty,North,Email,Supplier B,2,216.36,0,29.35
+341,Sports,West,Direct,Supplier A,4,190.1,1,30.0
+342,Beauty,South,Email,Supplier A,2,165.36,1,34.24
+343,Clothing,South,Email,Supplier C,2,370.82,1,37.74
+344,Clothing,South,Email,Supplier B,1,356.35,0,35.41
+345,Beauty,South,Referral,Supplier C,3,302.73,1,31.36
+346,Clothing,North,Referral,Supplier A,3,470.56,1,30.95
+347,Sports,East,Direct,Supplier B,2,187.93,0,27.15
+348,Electronics,North,Email,Supplier B,1,137.02,0,26.4
+349,Sports,West,Referral,Supplier A,4,334.83,0,26.9
+350,Sports,North,Direct,Supplier B,3,115.43,0,24.04
+351,Clothing,North,Email,Supplier B,2,171.21,0,30.41
+352,Electronics,West,Social Media,Supplier C,3,127.81,0,32.25
+353,Clothing,South,Email,Supplier A,3,53.19,0,32.54
+354,Home,South,Email,Supplier A,4,417.2,1,28.35
+355,Clothing,South,Referral,Supplier A,1,142.18,0,35.92
+356,Clothing,East,Direct,Supplier A,4,247.05,1,32.18
+357,Clothing,West,Direct,Supplier A,1,40.79,0,43.65
+358,Electronics,West,Referral,Supplier B,3,355.68,0,25.71
+359,Clothing,North,Email,Supplier C,2,178.67,1,35.06
+360,Electronics,East,Social Media,Supplier A,4,377.47,1,26.05
+361,Beauty,South,Email,Supplier C,1,217.95,1,38.14
+362,Home,East,Email,Supplier C,3,113.96,0,29.4
+363,Electronics,West,Social Media,Supplier B,1,266.32,1,33.26
+364,Beauty,West,Referral,Supplier A,1,82.64,1,37.95
+365,Electronics,North,Direct,Supplier B,1,231.46,0,28.62
+366,Electronics,North,Referral,Supplier A,3,172.31,0,23.65
+367,Home,West,Referral,Supplier B,2,457.74,0,31.2
+368,Sports,South,Email,Supplier C,2,49.25,0,29.71
+369,Sports,South,Direct,Supplier A,2,353.13,0,32.14
+370,Electronics,East,Direct,Supplier C,1,107.72,1,33.24
+371,Clothing,West,Referral,Supplier C,3,173.14,0,35.66
+372,Beauty,West,Social Media,Supplier B,1,219.45,0,38.57
+373,Clothing,South,Referral,Supplier A,2,455.85,0,34.96
+374,Clothing,South,Social Media,Supplier C,2,136.44,0,38.06
+375,Electronics,West,Direct,Supplier B,3,63.83,0,28.05
+376,Electronics,North,Referral,Supplier A,1,172.97,0,27.95
+377,Electronics,West,Email,Supplier A,4,70.24,0,27.31
+378,Electronics,West,Referral,Supplier C,4,81.73,0,26.4
+379,Sports,South,Direct,Supplier A,2,295.45,0,31.86
+380,Electronics,South,Email,Supplier C,3,49.23,0,27.14
+381,Sports,North,Email,Supplier A,1,34.85,0,29.53
+382,Sports,North,Social Media,Supplier B,1,362.92,0,29.02
+383,Electronics,East,Email,Supplier C,2,193.59,1,29.3
+384,Home,West,Email,Supplier C,2,80.18,0,36.08
+385,Beauty,South,Referral,Supplier A,1,141.73,1,34.53
+386,Clothing,North,Direct,Supplier A,1,328.2,1,39.53
+387,Sports,East,Social Media,Supplier C,2,152.26,0,30.79
+388,Beauty,East,Referral,Supplier A,1,257.37,0,34.26
+389,Home,South,Email,Supplier B,4,78.41,0,23.73
+390,Clothing,South,Email,Supplier A,2,302.28,1,36.33
+391,Clothing,East,Social Media,Supplier B,1,171.72,1,35.1
+392,Sports,North,Direct,Supplier B,2,320.94,0,27.05
+393,Electronics,East,Social Media,Supplier B,3,408.03,0,25.19
+394,Home,West,Referral,Supplier B,2,313.59,0,30.51
+395,Sports,West,Social Media,Supplier B,2,161.96,0,30.62
+396,Home,South,Email,Supplier A,3,142.76,0,29.39
+397,Electronics,North,Referral,Supplier B,4,177.16,0,19.04
+398,Electronics,North,Email,Supplier A,1,99.02,0,29.54
+399,Sports,West,Direct,Supplier B,3,106.96,0,28.53
+400,Electronics,East,Email,Supplier C,2,399.53,1,30.26
+401,Beauty,South,Email,Supplier B,1,204.67,1,33.27
+402,Clothing,East,Social Media,Supplier C,3,229.28,0,35.06
+403,Sports,East,Email,Supplier B,1,305.14,0,28.1
+404,Home,East,Referral,Supplier B,1,303.03,0,28.65
+405,Beauty,North,Referral,Supplier B,3,52.34,0,24.57
+406,Sports,West,Direct,Supplier C,1,419.14,0,39.8
+407,Electronics,North,Referral,Supplier C,4,105.12,0,22.2
+408,Electronics,West,Social Media,Supplier B,3,367.07,1,28.94
+409,Electronics,South,Direct,Supplier A,4,390.88,0,27.34
+410,Electronics,South,Referral,Supplier B,2,363.15,0,24.81
+411,Home,East,Social Media,Supplier C,1,297.91,1,36.73
+412,Beauty,West,Referral,Supplier B,2,27.01,0,31.41
+413,Clothing,West,Referral,Supplier C,2,192.98,0,38.38
+414,Home,West,Email,Supplier C,1,310.32,0,39.95
+415,Home,East,Referral,Supplier C,3,205.98,0,27.9
+416,Clothing,East,Referral,Supplier B,1,434.47,0,32.83
+417,Clothing,South,Social Media,Supplier C,2,168.23,1,38.23
+418,Electronics,North,Social Media,Supplier C,2,160.9,0,29.81
+419,Home,West,Email,Supplier B,3,147.68,0,29.35
+420,Sports,West,Referral,Supplier C,1,179.73,0,34.24
+421,Clothing,North,Email,Supplier B,2,287.55,0,30.97
+422,Clothing,West,Referral,Supplier C,4,359.37,0,34.06
+423,Beauty,East,Direct,Supplier A,2,338.03,0,36.32
+424,Sports,East,Direct,Supplier A,2,407.7,0,31.58
+425,Sports,West,Email,Supplier C,3,445.24,0,32.66
+426,Clothing,East,Email,Supplier A,4,411.72,0,31.02
+427,Electronics,East,Email,Supplier B,2,29.09,1,24.46
+428,Beauty,West,Social Media,Supplier A,2,373.24,0,40.65
+429,Sports,South,Social Media,Supplier C,4,120.03,0,26.82
+430,Clothing,North,Social Media,Supplier C,1,83.81,1,38.72
+431,Sports,East,Email,Supplier B,1,326.47,0,28.2
+432,Beauty,South,Referral,Supplier C,2,173.48,1,33.18
+433,Beauty,East,Direct,Supplier B,2,47.42,0,31.19
+434,Home,East,Email,Supplier A,1,86.06,0,33.13
+435,Clothing,North,Social Media,Supplier A,3,20.45,1,32.23
+436,Beauty,East,Social Media,Supplier B,4,453.55,0,27.91
+437,Home,North,Email,Supplier B,4,31.82,1,22.25
+438,Home,North,Email,Supplier C,3,120.54,1,28.72
+439,Sports,North,Social Media,Supplier A,3,219.81,0,27.16
+440,Sports,South,Referral,Supplier B,3,191.15,0,22.35
+441,Home,West,Social Media,Supplier A,3,457.63,0,35.94
+442,Sports,South,Social Media,Supplier B,3,39.34,0,24.62
+443,Beauty,West,Email,Supplier A,3,265.86,1,35.87
+444,Electronics,West,Referral,Supplier C,4,346.63,0,27.57
+445,Beauty,North,Social Media,Supplier A,3,467.22,0,33.1
+446,Home,East,Social Media,Supplier A,1,317.78,0,35.8
+447,Home,North,Direct,Supplier A,3,405.8,1,31.02
+448,Beauty,East,Email,Supplier A,3,60.19,1,30.43
+449,Sports,West,Direct,Supplier A,4,205.25,1,30.07
+450,Sports,North,Direct,Supplier C,4,199.49,0,26.23
+451,Home,East,Social Media,Supplier B,3,445.42,1,27.99
+452,Clothing,South,Email,Supplier A,4,92.66,0,30.31
+453,Sports,East,Referral,Supplier C,2,92.91,0,27.22
+454,Beauty,North,Social Media,Supplier A,4,177.71,0,29.3
+455,Sports,South,Referral,Supplier A,4,46.14,1,22.69
+456,Beauty,East,Referral,Supplier B,4,107.58,0,23.38
+457,Home,East,Email,Supplier A,4,483.3,0,27.88
+458,Sports,East,Direct,Supplier C,1,225.53,0,34.15
+459,Beauty,East,Email,Supplier C,1,323.37,0,37.8
+460,Home,East,Referral,Supplier B,1,368.53,1,28.95
+461,Clothing,South,Social Media,Supplier A,3,196.14,0,34.73
+462,Beauty,West,Referral,Supplier C,3,90.67,1,33.86
+463,Clothing,South,Social Media,Supplier A,2,119.16,0,36.92
+464,Clothing,South,Social Media,Supplier A,1,170.37,0,39.84
+465,Electronics,South,Email,Supplier A,3,325.31,0,27.47
+466,Sports,West,Referral,Supplier B,4,211.17,0,23.29
+467,Beauty,North,Direct,Supplier A,4,23.27,1,29.08
+468,Clothing,West,Referral,Supplier C,1,271.24,0,41.5
+469,Electronics,South,Referral,Supplier A,2,462.33,0,28.46
+470,Home,East,Direct,Supplier C,2,409.8,1,35.28
+471,Beauty,East,Email,Supplier A,4,416.1,1,29.75
+472,Clothing,South,Referral,Supplier C,2,401.63,0,35.71
+473,Sports,East,Referral,Supplier C,1,175.39,0,29.88
+474,Electronics,South,Social Media,Supplier A,4,387.29,0,26.84
+475,Clothing,East,Referral,Supplier A,3,88.72,0,29.87
+476,Sports,West,Direct,Supplier C,3,335.7,0,34.13
+477,Clothing,North,Social Media,Supplier B,2,327.95,0,32.6
+478,Beauty,North,Email,Supplier A,4,32.27,0,27.29
+479,Beauty,West,Social Media,Supplier B,4,398.23,0,31.82
+480,Beauty,West,Direct,Supplier A,3,453.56,0,38.97
+481,Electronics,South,Direct,Supplier A,4,148.36,1,26.27
+482,Beauty,South,Social Media,Supplier A,4,409.95,0,31.95
+483,Sports,South,Email,Supplier A,4,59.55,0,24.44
+484,Clothing,East,Social Media,Supplier B,2,307.98,0,33.26
+485,Home,South,Email,Supplier A,4,253.11,0,27.61
+486,Sports,West,Social Media,Supplier C,1,282.04,0,38.48
+487,Sports,North,Direct,Supplier C,2,464.58,0,32.08
+488,Beauty,East,Referral,Supplier B,4,438.23,1,24.73
+489,Electronics,South,Referral,Supplier A,4,396.84,0,23.85
+490,Clothing,East,Email,Supplier C,1,151.38,1,38.33
+491,Electronics,East,Email,Supplier B,2,457.67,0,26.28
+492,Clothing,South,Email,Supplier A,3,66.8,1,32.6
+493,Clothing,East,Direct,Supplier C,3,429.6,1,36.65
+494,Electronics,North,Social Media,Supplier C,2,177.52,0,29.88
+495,Sports,West,Direct,Supplier B,4,45.81,0,26.03
+496,Clothing,West,Referral,Supplier A,4,341.29,0,32.96
+497,Electronics,North,Email,Supplier A,3,131.01,0,25.22
+498,Clothing,East,Social Media,Supplier C,3,136.91,0,34.59
+499,Home,South,Referral,Supplier C,3,166.9,0,28.5
+500,Sports,East,Referral,Supplier C,1,50.57,1,29.3
+501,Beauty,North,Referral,Supplier A,3,105.02,1,27.98
+502,Clothing,East,Direct,Supplier B,1,22.47,1,34.9
+503,Home,West,Email,Supplier B,2,233.8,0,32.15
+504,Beauty,East,Referral,Supplier A,4,60.44,0,26.25
+505,Beauty,North,Email,Supplier B,3,347.67,1,27.66
+506,Clothing,West,Direct,Supplier C,4,133.1,1,37.13
+507,Electronics,East,Referral,Supplier B,4,472.92,0,20.64
+508,Clothing,East,Direct,Supplier B,3,438.2,0,31.97
+509,Home,West,Direct,Supplier B,3,158.93,0,31.32
+510,Beauty,South,Email,Supplier C,2,395.94,0,36.45
+511,Clothing,West,Referral,Supplier A,1,405.56,0,41.14
+512,Electronics,South,Direct,Supplier C,1,493.55,1,36.07
+513,Clothing,North,Referral,Supplier A,4,306.96,0,27.86
+514,Sports,North,Email,Supplier A,3,59.34,1,25.18
+515,Electronics,West,Direct,Supplier A,2,330.48,0,35.31
+516,Home,West,Email,Supplier B,2,319.99,0,32.57
+517,Beauty,North,Referral,Supplier B,2,326.41,0,27.93
+518,Clothing,South,Referral,Supplier A,2,167.43,0,33.51
+519,Electronics,North,Email,Supplier A,2,432.65,0,28.76
+520,Sports,West,Social Media,Supplier B,1,480.55,0,34.66
+521,Electronics,North,Direct,Supplier C,1,124.5,0,32.56
+522,Sports,West,Referral,Supplier A,1,62.31,0,32.65
+523,Home,West,Referral,Supplier C,3,113.38,1,31.63
+524,Beauty,North,Direct,Supplier B,4,413.87,0,27.52
+525,Home,South,Email,Supplier A,2,344.79,1,32.77
+526,Clothing,East,Email,Supplier C,3,325.3,1,34.04
+527,Electronics,North,Email,Supplier C,2,212.86,0,28.68
+528,Sports,East,Social Media,Supplier C,1,297.36,0,33.96
+529,Sports,North,Social Media,Supplier B,3,167.78,0,23.81
+530,Electronics,East,Referral,Supplier B,1,249.06,0,25.73
+531,Electronics,South,Email,Supplier C,2,400.67,0,31.08
+532,Clothing,South,Direct,Supplier C,2,491.0,1,40.54
+533,Home,North,Referral,Supplier B,4,467.59,0,22.32
+534,Sports,West,Direct,Supplier C,2,468.26,1,37.4
+535,Clothing,East,Referral,Supplier C,1,213.07,1,36.45
+536,Home,West,Social Media,Supplier B,2,245.02,1,33.67
+537,Clothing,West,Referral,Supplier C,4,358.7,0,34.05
+538,Sports,West,Social Media,Supplier C,4,462.65,1,31.74
+539,Electronics,South,Referral,Supplier C,1,88.16,0,29.98
+540,Electronics,North,Email,Supplier B,3,166.04,0,22.38
+541,Home,North,Direct,Supplier C,2,86.84,0,32.88
+542,Beauty,South,Email,Supplier B,4,313.76,0,26.72
+543,Home,South,Referral,Supplier B,2,167.02,1,26.56
+544,Beauty,North,Referral,Supplier A,2,176.53,0,30.64
+545,Clothing,West,Referral,Supplier A,3,54.04,0,34.03
+546,Clothing,East,Social Media,Supplier C,4,187.9,0,32.34
+547,Sports,East,Direct,Supplier B,2,434.0,0,28.25
+548,Beauty,East,Direct,Supplier A,4,131.87,0,30.31
+549,Sports,West,Referral,Supplier C,1,353.69,0,35.13
+550,Electronics,North,Referral,Supplier A,1,322.22,0,28.63
+551,Beauty,South,Social Media,Supplier A,2,434.47,0,37.14
+552,Home,North,Email,Supplier B,4,83.5,0,22.46
+553,Electronics,West,Email,Supplier B,2,489.24,1,30.47
+554,Electronics,South,Direct,Supplier A,4,299.66,0,26.93
+555,Home,West,Social Media,Supplier A,4,497.83,0,33.59
+556,Electronics,East,Referral,Supplier B,3,457.53,1,22.48
+557,Beauty,East,Direct,Supplier C,3,126.33,0,33.71
+558,Sports,West,Social Media,Supplier B,3,46.96,1,27.76
+559,Electronics,South,Email,Supplier A,2,142.71,1,28.92
+560,Beauty,South,Social Media,Supplier C,3,273.23,0,34.76
+561,Clothing,North,Email,Supplier A,3,102.37,0,31.2
+562,Beauty,East,Social Media,Supplier C,1,100.38,0,38.18
+563,Sports,North,Direct,Supplier A,4,242.04,0,25.54
+564,Beauty,North,Email,Supplier C,4,35.97,0,28.21
+565,Home,West,Direct,Supplier C,3,78.51,0,35.58
+566,Sports,West,Direct,Supplier A,4,219.61,1,30.14
+567,Clothing,North,Email,Supplier C,1,50.3,0,36.98
+568,Home,East,Email,Supplier B,1,210.44,0,30.17
+569,Beauty,West,Referral,Supplier A,3,247.52,0,33.64
+570,Sports,North,Referral,Supplier B,1,236.61,0,25.29
+571,Clothing,North,Referral,Supplier A,4,437.2,1,28.45
+572,Home,North,Direct,Supplier C,2,274.43,1,33.82
+573,Clothing,North,Direct,Supplier C,4,244.63,0,32.39
+574,Beauty,North,Referral,Supplier C,2,217.14,0,31.8
+575,Clothing,North,Direct,Supplier A,3,412.46,0,34.73
+576,Electronics,West,Direct,Supplier B,2,449.63,1,32.23
+577,Home,East,Email,Supplier B,1,429.56,0,31.22
+578,Clothing,North,Email,Supplier A,4,343.3,1,29.96
+579,Beauty,South,Direct,Supplier A,2,85.93,0,35.9
+580,Beauty,West,Referral,Supplier B,4,152.9,0,27.34
+581,Clothing,West,Social Media,Supplier B,3,42.11,1,33.88
+582,Beauty,North,Referral,Supplier B,3,466.8,1,26.33
+583,Sports,West,Social Media,Supplier B,1,337.18,1,33.93
+584,Sports,North,Referral,Supplier A,3,378.25,0,24.76
+585,Sports,East,Email,Supplier A,2,169.55,0,28.55
+586,Electronics,East,Direct,Supplier C,3,425.91,0,29.93
+587,Clothing,West,Direct,Supplier B,1,144.61,1,40.21
+588,Electronics,West,Email,Supplier C,4,20.79,0,27.99
+589,Beauty,South,Social Media,Supplier A,4,200.68,0,30.94
+590,Electronics,West,Social Media,Supplier A,3,293.97,0,32.08
+591,Beauty,South,Social Media,Supplier C,2,249.78,1,37.23
+592,Beauty,East,Email,Supplier B,1,433.8,0,33.56
+593,Home,East,Social Media,Supplier B,2,70.59,0,28.56
+594,Sports,North,Email,Supplier B,1,285.84,0,27.33
+595,Beauty,East,Referral,Supplier B,3,266.23,0,26.13
+596,Home,South,Referral,Supplier C,1,155.07,1,33.23
+597,Sports,West,Email,Supplier C,1,414.67,0,37.62
+598,Beauty,North,Direct,Supplier A,3,381.37,1,33.21
+599,Beauty,South,Referral,Supplier B,2,371.77,0,29.63
+600,Electronics,West,Social Media,Supplier B,3,440.57,1,29.28
+601,Electronics,North,Email,Supplier B,1,366.94,1,27.41
+602,Sports,East,Social Media,Supplier C,3,131.28,0,28.35
+603,Beauty,South,Social Media,Supplier B,1,358.67,0,35.54
+604,Clothing,West,Direct,Supplier C,3,167.7,0,39.97
+605,Electronics,North,Social Media,Supplier B,4,136.24,0,21.48
+606,Sports,North,Direct,Supplier B,4,55.04,0,21.82
+607,Beauty,East,Referral,Supplier A,3,377.13,0,29.95
+608,Beauty,West,Email,Supplier B,2,361.28,1,35.16
+609,Clothing,East,Social Media,Supplier B,1,132.56,0,34.9
+610,Sports,East,Email,Supplier A,4,379.7,0,25.07
+611,Beauty,West,Social Media,Supplier C,2,460.56,0,42.22
+612,Electronics,West,Email,Supplier C,1,71.85,0,35.51
+613,Clothing,West,Social Media,Supplier B,4,131.67,0,31.84
+614,Sports,South,Social Media,Supplier C,4,380.13,1,27.98
+615,Clothing,West,Social Media,Supplier B,3,151.76,0,34.43
+616,Electronics,North,Social Media,Supplier A,1,319.84,0,32.0
+617,Sports,East,Social Media,Supplier A,2,58.96,1,29.4
+618,Clothing,South,Social Media,Supplier B,2,237.06,0,33.76
+619,Home,West,Social Media,Supplier A,2,374.76,1,38.12
+620,Electronics,South,Social Media,Supplier A,1,349.53,0,33.75
+621,Electronics,West,Social Media,Supplier B,2,411.23,1,31.52
+622,Electronics,South,Email,Supplier B,2,441.18,1,26.95
+623,Home,East,Direct,Supplier A,2,391.13,0,34.17
+624,Home,East,Social Media,Supplier C,3,342.36,0,31.9
+625,Beauty,North,Direct,Supplier C,3,35.23,1,32.49
+626,Clothing,North,Social Media,Supplier B,1,276.78,0,34.85
+627,Beauty,West,Social Media,Supplier B,1,38.09,1,37.61
+628,Clothing,East,Email,Supplier C,2,407.87,0,37.04
+629,Home,South,Referral,Supplier A,3,173.95,1,27.62
+630,Home,South,Referral,Supplier C,4,289.97,1,26.8
+631,Beauty,South,Email,Supplier C,4,154.13,0,30.26
+632,Sports,North,Direct,Supplier C,2,395.6,0,31.74
+633,Beauty,South,Referral,Supplier C,2,445.52,0,34.55
+634,Clothing,North,Email,Supplier B,3,211.35,0,28.27
+635,Beauty,North,Email,Supplier B,3,434.2,0,28.05
+636,Electronics,West,Referral,Supplier A,3,148.2,0,28.02
+637,Clothing,South,Direct,Supplier A,1,276.64,0,41.0
+638,Clothing,South,Email,Supplier A,1,432.21,1,39.66
+639,Sports,East,Social Media,Supplier A,2,176.42,0,29.95
+640,Home,West,Direct,Supplier C,1,477.94,0,43.06
+641,Clothing,East,Direct,Supplier B,3,78.5,1,30.24
+642,Home,West,Referral,Supplier B,3,28.77,1,26.91
+643,Beauty,South,Referral,Supplier A,1,453.98,0,36.13
+644,Electronics,North,Social Media,Supplier A,4,52.95,0,24.04
+645,Sports,North,Email,Supplier C,2,496.11,1,30.29
+646,Home,North,Referral,Supplier C,4,476.67,1,26.2
+647,Clothing,North,Referral,Supplier A,2,85.77,0,31.51
+648,Home,North,Direct,Supplier B,4,278.04,1,24.88
+649,Clothing,East,Referral,Supplier B,1,108.76,1,31.24
+650,Home,West,Referral,Supplier B,2,225.51,0,30.09
+651,Clothing,South,Referral,Supplier A,2,49.48,1,32.92
+652,Beauty,East,Referral,Supplier B,2,127.48,1,27.73
+653,Clothing,West,Direct,Supplier C,3,194.37,0,40.12
+654,Clothing,North,Social Media,Supplier C,3,230.55,1,34.28
+655,Electronics,West,Social Media,Supplier A,4,489.2,0,30.6
+656,Clothing,West,Email,Supplier C,1,407.78,1,44.55
+657,Electronics,North,Referral,Supplier A,3,373.96,0,24.48
+658,Sports,North,Direct,Supplier B,2,277.78,0,26.86
+659,Electronics,North,Email,Supplier B,3,423.2,0,23.4
+660,Beauty,South,Email,Supplier B,1,182.87,1,33.16
+661,Electronics,North,Social Media,Supplier C,3,360.27,0,28.41
+662,Sports,South,Direct,Supplier A,2,497.02,1,32.85
+663,Beauty,North,Direct,Supplier B,4,171.02,0,26.45
+664,Home,South,Direct,Supplier A,2,343.53,0,34.79
+665,Home,West,Social Media,Supplier B,1,425.27,1,37.16
+666,Electronics,East,Social Media,Supplier C,4,459.59,1,27.3
+667,Electronics,West,Social Media,Supplier C,3,364.61,0,33.42
+668,Sports,West,Social Media,Supplier A,3,156.13,0,31.71
+669,Sports,North,Social Media,Supplier C,3,176.62,0,27.86
+670,Clothing,South,Referral,Supplier C,4,29.96,1,28.99
+671,Sports,East,Referral,Supplier A,2,385.23,0,27.62
+672,Clothing,North,Direct,Supplier B,4,40.52,1,27.07
+673,Beauty,North,Email,Supplier C,4,435.03,0,30.06
+674,Electronics,North,Direct,Supplier A,1,76.96,0,31.35
+675,Beauty,West,Email,Supplier C,4,102.5,0,33.51
+676,Sports,South,Social Media,Supplier C,3,248.73,0,29.68
+677,Beauty,South,Email,Supplier C,2,374.18,0,36.34
+678,Beauty,East,Direct,Supplier C,2,86.72,0,36.06
+679,Beauty,South,Direct,Supplier A,2,231.23,0,36.65
+680,Sports,South,Email,Supplier A,3,251.77,0,27.42
+681,Beauty,North,Referral,Supplier A,3,121.9,1,28.06
+682,Clothing,North,Social Media,Supplier C,3,75.47,0,33.5
+683,Sports,West,Social Media,Supplier C,3,421.48,0,34.02
+684,Beauty,North,Direct,Supplier C,3,261.18,0,33.61
+685,Sports,North,Referral,Supplier A,4,26.9,0,21.37
+686,Home,North,Email,Supplier C,3,405.43,0,30.05
+687,Clothing,North,Social Media,Supplier B,3,490.78,1,30.96
+688,Beauty,West,Referral,Supplier C,3,310.84,0,34.97
+689,Home,North,Social Media,Supplier B,3,261.78,0,26.49
+690,Home,East,Referral,Supplier C,2,441.64,1,31.34
+691,Sports,East,Referral,Supplier A,3,477.21,0,25.83
+692,Home,East,Direct,Supplier C,4,382.18,1,30.21
+693,Clothing,East,Social Media,Supplier B,4,233.82,0,28.14
+694,Clothing,North,Email,Supplier B,4,304.27,0,26.45
+695,Electronics,East,Direct,Supplier C,1,356.45,0,34.49
+696,Clothing,North,Direct,Supplier B,2,113.25,0,32.08
+697,Home,West,Email,Supplier B,3,234.66,0,29.75
+698,Clothing,East,Direct,Supplier A,1,418.31,0,40.85
+699,Sports,South,Referral,Supplier C,3,334.27,0,26.82
+700,Electronics,East,Referral,Supplier C,1,217.38,0,29.79
+701,Home,East,Social Media,Supplier C,1,338.41,1,36.95
+702,Electronics,North,Social Media,Supplier B,4,76.75,0,21.25
+703,Home,East,Email,Supplier C,4,212.72,1,27.57
+704,Sports,South,Social Media,Supplier C,1,400.7,1,35.35
+705,Electronics,North,Referral,Supplier A,4,125.84,0,21.51
+706,Beauty,North,Email,Supplier A,1,109.26,0,34.85
+707,Home,West,Email,Supplier A,2,476.39,0,37.1
+708,Beauty,West,Social Media,Supplier B,4,120.75,0,30.48
+709,Electronics,East,Referral,Supplier C,4,145.24,0,22.96
+710,Beauty,West,Email,Supplier A,4,485.42,0,34.43
+711,Beauty,West,Referral,Supplier A,2,372.66,1,36.84
+712,Electronics,West,Referral,Supplier A,1,355.81,1,33.81
+713,Sports,North,Referral,Supplier C,3,429.4,1,25.82
+714,Beauty,North,Social Media,Supplier C,4,75.6,0,29.76
+715,Beauty,North,Direct,Supplier C,1,358.86,1,39.32
+716,Sports,West,Direct,Supplier B,2,261.77,1,31.62
+717,Beauty,North,Email,Supplier B,3,417.99,1,27.98
+718,Beauty,West,Referral,Supplier A,4,263.91,0,31.26
+719,Beauty,North,Social Media,Supplier C,2,317.72,1,35.9
+720,Clothing,North,Referral,Supplier A,2,249.32,1,32.31
+721,Sports,South,Referral,Supplier C,3,249.52,1,26.45
+722,Beauty,East,Social Media,Supplier C,1,388.63,0,39.72
+723,Sports,West,Direct,Supplier C,4,321.71,0,31.59
+724,Home,South,Referral,Supplier B,4,323.97,0,23.03
+725,Home,North,Referral,Supplier B,1,236.14,0,27.65
+726,Beauty,West,Direct,Supplier C,1,274.93,0,44.55
+727,Sports,North,Social Media,Supplier A,1,377.94,1,32.59
+728,Sports,East,Email,Supplier C,3,416.45,0,28.31
+729,Sports,South,Direct,Supplier C,3,354.35,0,30.69
+730,Clothing,East,Email,Supplier A,4,463.56,0,31.27
+731,Home,South,Email,Supplier C,3,413.76,1,31.64
+732,Sports,North,Direct,Supplier A,2,289.69,0,30.27
+733,Sports,East,Referral,Supplier B,4,342.27,0,20.39
+734,Clothing,East,Email,Supplier B,3,464.63,0,30.16
+735,Clothing,North,Email,Supplier A,1,317.2,1,37.33
+736,Sports,East,Social Media,Supplier B,2,415.91,1,27.68
+737,Electronics,West,Referral,Supplier B,1,350.63,0,30.2
+738,Sports,South,Email,Supplier A,4,284.93,0,25.39
+739,Sports,South,Social Media,Supplier B,1,136.08,1,29.47
+740,Clothing,South,Referral,Supplier C,3,224.48,0,32.3
+741,Clothing,West,Direct,Supplier C,3,484.52,1,41.69
+742,Sports,South,Direct,Supplier A,4,335.73,1,27.37
+743,Sports,North,Social Media,Supplier B,1,290.91,0,28.69
+744,Sports,East,Direct,Supplier C,4,467.82,0,28.1
+745,Clothing,West,Email,Supplier C,1,301.53,0,43.97
+746,Sports,South,Referral,Supplier B,2,272.52,0,24.7
+747,Sports,North,Email,Supplier B,3,384.47,0,23.49
+748,Beauty,East,Email,Supplier C,4,362.08,0,30.44
+749,Electronics,East,Direct,Supplier C,2,112.72,1,30.82
+750,Home,West,Email,Supplier A,2,246.23,0,35.9
+751,Electronics,West,Direct,Supplier A,4,246.81,0,29.97
+752,Beauty,West,Referral,Supplier C,4,201.55,0,31.93
+753,Home,North,Referral,Supplier A,2,268.3,0,28.85
+754,Sports,North,Email,Supplier C,1,218.29,0,31.35
+755,Beauty,West,Social Media,Supplier C,2,115.69,0,40.34
+756,Sports,South,Direct,Supplier A,4,217.94,0,26.85
+757,Clothing,East,Direct,Supplier A,2,54.69,1,36.26
+758,Beauty,East,Email,Supplier B,1,296.38,0,32.88
+759,Clothing,North,Direct,Supplier B,3,429.75,0,31.19
+760,Beauty,East,Direct,Supplier B,3,368.14,0,30.33
+761,Beauty,South,Social Media,Supplier C,2,192.99,0,36.93
+762,Clothing,East,Social Media,Supplier A,1,61.79,0,38.35
+763,Home,North,Email,Supplier C,3,117.03,0,28.7
+764,Electronics,North,Social Media,Supplier A,2,281.84,0,29.43
+765,Sports,South,Email,Supplier C,2,119.39,0,30.04
+766,Beauty,South,Referral,Supplier B,1,281.11,0,31.58
+767,Sports,East,Email,Supplier B,4,131.17,1,21.16
+768,Clothing,East,Referral,Supplier B,2,427.48,0,30.37
+769,Sports,North,Email,Supplier C,4,210.69,0,24.56
+770,Clothing,South,Direct,Supplier A,4,137.86,0,32.48
+771,Sports,South,Social Media,Supplier A,3,409.92,0,29.5
+772,Electronics,South,Referral,Supplier B,4,184.56,0,20.21
+773,Electronics,East,Email,Supplier B,1,73.51,0,26.79
+774,Electronics,South,Social Media,Supplier B,3,293.8,1,25.43
+775,Electronics,North,Email,Supplier B,3,299.15,0,22.9
+776,Electronics,North,Social Media,Supplier A,3,363.05,0,27.52
+777,Electronics,East,Social Media,Supplier C,2,135.31,0,30.41
+778,Clothing,West,Email,Supplier C,2,233.01,1,40.85
+779,Beauty,East,Referral,Supplier C,4,155.54,1,27.55
+780,Sports,West,Referral,Supplier C,3,58.86,1,28.82
+781,Electronics,South,Direct,Supplier B,3,440.77,0,26.53
+782,Clothing,East,Social Media,Supplier B,1,369.86,1,36.12
+783,Clothing,North,Direct,Supplier B,4,164.7,0,27.62
+784,Clothing,South,Direct,Supplier C,1,307.7,1,42.27
+785,Beauty,North,Email,Supplier B,4,116.61,0,24.5
+786,Sports,South,Email,Supplier B,4,447.31,1,23.04
+787,Beauty,East,Email,Supplier A,2,75.16,1,32.94
+788,Home,West,Social Media,Supplier A,2,21.84,0,36.27
+789,Clothing,South,Email,Supplier B,1,260.96,0,34.92
+790,Home,West,Email,Supplier A,4,299.9,1,31.17
+791,Electronics,South,Social Media,Supplier A,3,297.9,0,28.69
+792,Electronics,North,Social Media,Supplier B,2,46.17,0,25.12
+793,Beauty,North,Referral,Supplier B,3,170.74,0,25.06
+794,Sports,South,Email,Supplier B,1,259.62,0,28.67
+795,Home,West,Email,Supplier B,2,123.96,0,31.61
+796,Sports,East,Email,Supplier C,2,438.86,1,30.75
+797,Beauty,East,Referral,Supplier C,4,61.81,0,27.13
+798,Electronics,North,Email,Supplier B,1,253.94,0,26.91
+799,Sports,East,Referral,Supplier A,4,351.88,1,23.23
+800,Sports,North,Direct,Supplier B,2,145.64,1,26.28
+801,Electronics,East,Referral,Supplier B,1,319.64,1,26.04
+802,Home,South,Direct,Supplier A,2,418.1,0,35.17
+803,Electronics,North,Email,Supplier C,1,111.36,0,30.54
+804,Sports,North,Direct,Supplier B,2,460.27,0,27.67
+805,Home,South,Referral,Supplier B,3,285.71,0,24.92
+806,Home,North,Social Media,Supplier C,3,163.63,0,30.3
+807,Electronics,East,Direct,Supplier C,4,226.81,0,26.75
+808,Sports,East,Direct,Supplier A,3,169.85,0,28.11
+809,Beauty,North,Email,Supplier C,2,368.05,0,34.64
+810,Sports,East,Referral,Supplier C,2,402.22,0,28.61
+811,Clothing,West,Direct,Supplier C,3,419.81,0,41.34
+812,Beauty,North,Direct,Supplier A,4,493.17,0,31.31
+813,Home,South,Direct,Supplier C,3,399.82,1,33.56
+814,Beauty,West,Direct,Supplier C,1,308.66,0,44.74
+815,Home,North,Social Media,Supplier A,1,182.83,0,34.32
+816,Home,South,Referral,Supplier C,1,281.41,0,33.86
+817,Beauty,East,Email,Supplier C,3,39.71,0,31.3
+818,Home,South,Email,Supplier A,3,377.52,1,30.5
+819,Home,West,Social Media,Supplier B,3,234.06,0,31.15
+820,Clothing,East,Referral,Supplier A,1,29.61,0,34.48
+821,Sports,North,Direct,Supplier C,4,50.0,0,25.58
+822,Sports,East,Social Media,Supplier C,2,205.98,1,31.05
+823,Clothing,North,Referral,Supplier C,3,300.04,0,31.1
+824,Beauty,North,Direct,Supplier A,4,242.82,1,30.11
+825,Electronics,South,Social Media,Supplier C,2,317.22,0,32.11
+826,Electronics,South,Referral,Supplier C,2,250.54,1,28.41
+827,Electronics,South,Email,Supplier A,2,337.62,0,29.83
+828,Clothing,West,Email,Supplier B,4,125.18,1,30.39
+829,Clothing,West,Referral,Supplier B,4,74.16,0,28.2
+830,Home,South,Email,Supplier C,1,306.29,0,36.13
+831,Electronics,West,Referral,Supplier A,4,252.65,1,26.27
+832,Beauty,East,Direct,Supplier C,4,32.9,1,30.8
+833,Beauty,East,Referral,Supplier A,4,202.63,0,26.87
+834,Electronics,West,Direct,Supplier A,2,70.94,1,34.0
+835,Electronics,West,Social Media,Supplier B,3,275.05,1,28.52
+836,Electronics,East,Referral,Supplier B,1,209.97,0,25.56
+837,Clothing,North,Social Media,Supplier A,3,314.31,0,33.69
+838,Clothing,East,Email,Supplier C,3,406.69,0,34.46
+839,Clothing,East,Direct,Supplier B,4,163.84,0,28.31
+840,Sports,West,Referral,Supplier C,1,481.81,1,35.79
+841,Beauty,East,Social Media,Supplier B,3,277.1,0,29.39
+842,Beauty,West,Direct,Supplier B,3,316.78,0,34.44
+843,Home,West,Direct,Supplier C,1,346.72,0,42.34
+844,Clothing,South,Email,Supplier B,4,340.03,0,28.05
+845,Sports,East,Email,Supplier B,3,265.27,0,23.63
+846,Sports,North,Direct,Supplier C,2,225.81,0,30.92
+847,Beauty,South,Direct,Supplier B,3,45.82,1,29.61
+848,Clothing,West,Referral,Supplier B,2,30.6,0,32.75
+849,Home,West,Direct,Supplier B,4,191.82,0,29.1
+850,Clothing,North,Referral,Supplier C,3,180.16,0,30.52
+851,Electronics,West,Direct,Supplier A,1,206.09,0,37.27
+852,Clothing,East,Email,Supplier C,1,86.42,1,37.98
+853,Electronics,South,Referral,Supplier A,3,374.32,0,25.85
+854,Electronics,West,Social Media,Supplier B,4,431.34,1,26.97
+855,Home,West,Email,Supplier A,4,470.58,0,32.0
+856,Beauty,North,Referral,Supplier C,1,256.33,0,34.49
+857,Clothing,East,Referral,Supplier C,3,356.42,1,32.12
+858,Electronics,West,Social Media,Supplier B,4,430.66,1,26.96
+859,Clothing,North,Referral,Supplier A,1,220.78,1,34.66
+860,Beauty,West,Direct,Supplier B,2,168.52,1,36.25
+861,Beauty,North,Social Media,Supplier B,3,469.63,1,29.57
+862,Sports,North,Email,Supplier C,2,267.52,0,29.22
+863,Beauty,East,Email,Supplier A,2,258.68,0,33.85
+864,Home,West,Direct,Supplier A,4,105.64,0,32.19
+865,Electronics,East,Email,Supplier A,4,71.91,0,23.54
+866,Sports,North,Referral,Supplier A,4,424.21,0,22.91
+867,Home,South,Referral,Supplier B,3,314.78,0,25.04
+868,Clothing,West,Direct,Supplier B,2,176.4,0,37.71
+869,Electronics,South,Email,Supplier C,3,112.03,0,27.42
+870,Beauty,West,Email,Supplier B,4,286.64,1,29.87
+871,Electronics,East,Direct,Supplier B,2,300.28,0,27.37
+872,Clothing,East,Social Media,Supplier C,3,119.36,0,34.5
+873,Sports,East,Email,Supplier C,3,428.67,0,28.36
+874,Sports,East,Social Media,Supplier C,1,60.45,0,32.78
+875,Sports,East,Email,Supplier B,3,190.92,0,23.33
+876,Beauty,South,Email,Supplier B,4,346.58,0,26.87
+877,Home,East,Email,Supplier C,3,151.58,0,29.58
+878,Home,North,Email,Supplier C,2,417.28,0,32.52
+879,Electronics,North,Referral,Supplier C,3,375.14,1,25.33
+880,Beauty,South,Social Media,Supplier B,1,398.73,0,35.75
+881,Sports,West,Social Media,Supplier B,2,77.17,0,30.22
+882,Sports,North,Email,Supplier A,2,87.46,1,27.48
+883,Clothing,West,Email,Supplier B,1,157.51,1,38.12
+884,Clothing,South,Social Media,Supplier B,4,268.68,1,29.08
+885,Sports,West,Referral,Supplier B,2,379.05,0,28.3
+886,Sports,West,Direct,Supplier C,4,421.53,1,32.07
+887,Beauty,West,Direct,Supplier B,2,358.08,0,37.24
+888,Home,West,Social Media,Supplier C,2,465.73,0,39.68
+889,Clothing,South,Email,Supplier A,4,374.6,0,31.66
+890,Home,North,Email,Supplier A,2,167.01,1,30.34
+891,Beauty,East,Referral,Supplier C,4,147.24,0,27.52
+892,Sports,West,Direct,Supplier C,1,354.17,1,39.45
+893,Home,North,Referral,Supplier C,4,112.58,0,24.65
+894,Sports,North,Direct,Supplier B,1,64.5,0,28.15
+895,Sports,South,Social Media,Supplier A,2,275.47,1,31.23
+896,Electronics,North,Direct,Supplier C,4,414.39,0,26.89
+897,Home,South,Referral,Supplier B,2,68.66,0,26.13
+898,Home,West,Referral,Supplier A,4,400.11,0,29.65
+899,Sports,West,Referral,Supplier B,1,409.55,1,30.78
+900,Beauty,East,Social Media,Supplier A,1,251.49,0,37.92
+901,Electronics,East,Direct,Supplier B,4,47.51,0,22.14
+902,Sports,East,Direct,Supplier A,1,103.8,0,32.54
+903,Clothing,North,Referral,Supplier A,2,359.56,0,32.85
+904,Clothing,West,Direct,Supplier B,2,361.65,0,38.69
+905,Electronics,South,Email,Supplier C,3,451.21,0,28.96
+906,Beauty,East,Email,Supplier A,1,299.69,1,36.63
+907,Sports,South,Email,Supplier C,2,79.57,0,29.85
+908,Home,South,Direct,Supplier B,4,78.28,0,25.4
+909,Electronics,East,Social Media,Supplier C,1,366.14,0,33.99
+910,Beauty,West,Social Media,Supplier C,2,108.22,0,40.3
+911,Home,East,Social Media,Supplier C,1,177.63,1,36.11
+912,Clothing,South,Social Media,Supplier C,4,253.86,0,33.51
+913,Clothing,East,Email,Supplier C,2,31.89,1,35.1
+914,Home,South,Email,Supplier A,3,139.43,1,29.38
+915,Electronics,South,Referral,Supplier A,3,215.79,1,25.17
+916,Clothing,East,Direct,Supplier A,1,154.23,0,39.43
+917,Sports,North,Direct,Supplier B,4,85.46,0,21.93
+918,Home,East,Social Media,Supplier C,2,369.45,0,34.53
+919,Home,North,Email,Supplier A,4,410.31,1,26.87
+920,Clothing,South,Social Media,Supplier B,2,143.59,0,33.29
+921,Electronics,South,Referral,Supplier A,1,391.72,0,30.47
+922,Sports,North,Direct,Supplier A,2,205.07,1,29.87
+923,Electronics,South,Direct,Supplier C,4,263.21,0,27.66
+924,Beauty,North,Social Media,Supplier B,4,430.88,0,27.11
+925,Beauty,North,Referral,Supplier C,1,379.98,0,35.12
+926,Clothing,South,Direct,Supplier C,4,406.46,1,34.83
+927,Clothing,West,Referral,Supplier A,2,85.69,0,36.76
+928,Clothing,North,Referral,Supplier C,1,53.47,0,34.84
+929,Beauty,East,Social Media,Supplier B,2,448.83,1,32.62
+930,Electronics,East,Email,Supplier C,4,206.16,0,24.92
+931,Electronics,South,Social Media,Supplier C,1,158.18,0,33.8
+932,Clothing,West,Email,Supplier C,2,367.85,0,41.58
+933,Sports,South,Referral,Supplier A,4,421.48,1,24.2
+934,Electronics,West,Email,Supplier B,4,434.0,1,25.69
+935,Beauty,North,Referral,Supplier A,3,171.68,1,28.28
+936,Home,North,Direct,Supplier A,4,429.06,0,28.77
+937,Home,North,Direct,Supplier A,2,39.65,0,31.67
+938,Home,North,Direct,Supplier A,1,43.84,1,34.17
+939,Sports,East,Social Media,Supplier A,3,319.29,0,28.29
+940,Clothing,East,Social Media,Supplier B,4,50.29,0,27.31
+941,Beauty,South,Referral,Supplier C,4,175.81,0,28.41
+942,Sports,West,Direct,Supplier A,4,342.92,1,30.72
+943,Beauty,North,Social Media,Supplier A,2,181.89,1,34.18
+944,Beauty,North,Direct,Supplier B,3,106.21,0,28.39
+945,Clothing,West,Social Media,Supplier B,2,155.05,0,37.03
+946,Home,West,Email,Supplier C,3,239.64,0,34.34
+947,Clothing,South,Email,Supplier B,1,248.19,1,34.85
+948,Sports,West,Direct,Supplier C,2,395.84,0,37.02
+949,Sports,North,Referral,Supplier A,2,380.07,0,26.92
+950,Sports,North,Social Media,Supplier A,1,239.27,0,31.91
+951,Clothing,North,Social Media,Supplier C,3,425.92,1,35.27
+952,Beauty,North,Email,Supplier B,4,74.83,1,24.32
+953,Beauty,North,Email,Supplier C,1,142.57,0,36.05
+954,Electronics,South,Referral,Supplier B,4,417.43,0,21.06
+955,Sports,North,Referral,Supplier A,4,201.44,0,22.03
+956,Beauty,South,Referral,Supplier B,1,490.97,1,32.61
+957,Electronics,North,Direct,Supplier C,3,243.8,0,28.37
+958,Beauty,East,Email,Supplier C,4,400.13,0,30.62
+959,Sports,East,Direct,Supplier A,1,213.11,0,33.08
+960,Home,East,Email,Supplier B,2,223.98,0,27.92
+961,Sports,East,Email,Supplier B,2,203.78,0,25.46
+962,Clothing,South,Social Media,Supplier B,2,365.16,0,34.41
+963,Beauty,South,Email,Supplier A,1,282.81,0,37.43
+964,Beauty,West,Email,Supplier B,2,473.01,0,35.73
+965,Clothing,North,Direct,Supplier C,4,140.43,0,31.88
+966,Clothing,East,Email,Supplier B,2,68.27,0,30.65
+967,Home,South,Direct,Supplier A,2,208.77,0,34.11
+968,Beauty,North,Referral,Supplier B,4,316.02,1,23.6
+969,Beauty,North,Email,Supplier B,2,433.18,0,30.37
+970,Home,South,Email,Supplier C,4,186.17,0,28.21
+971,Electronics,East,Direct,Supplier B,2,333.82,0,27.52
+972,Home,West,Referral,Supplier C,4,188.1,0,29.6
+973,Sports,North,Social Media,Supplier C,2,316.27,1,30.84
+974,Beauty,West,Referral,Supplier A,4,444.71,1,32.14
+975,Clothing,East,Direct,Supplier C,1,131.05,0,40.38
+976,Sports,East,Referral,Supplier C,4,214.04,1,23.48
+977,Beauty,West,Direct,Supplier A,2,496.77,1,41.91
+978,Home,East,Direct,Supplier C,2,436.91,0,35.42
+979,Sports,North,Social Media,Supplier A,3,291.03,0,27.47
+980,Beauty,West,Email,Supplier B,4,267.98,0,29.78
+981,Electronics,East,Direct,Supplier A,1,156.61,1,32.49
+982,Electronics,West,Direct,Supplier C,4,268.26,0,31.03
+983,Clothing,North,Social Media,Supplier A,4,427.13,0,31.77
+984,Beauty,East,Direct,Supplier C,1,348.88,0,40.09
+985,Electronics,North,Email,Supplier B,4,159.22,0,20.46
+986,Home,East,Social Media,Supplier A,1,116.7,0,34.77
+987,Beauty,South,Email,Supplier B,1,147.3,0,32.98
+988,Home,East,Email,Supplier C,4,101.48,1,27.07
+989,Home,West,Social Media,Supplier C,4,65.91,1,32.45
+990,Electronics,East,Direct,Supplier B,2,221.19,0,27.02
+991,Beauty,North,Email,Supplier A,2,74.38,0,32.17
+992,Sports,North,Email,Supplier A,3,102.52,1,25.36
+993,Electronics,East,Email,Supplier C,3,282.72,0,27.42
+994,Electronics,West,Email,Supplier B,4,99.01,1,24.28
+995,Beauty,South,Social Media,Supplier B,1,50.66,1,33.98
+996,Beauty,West,Social Media,Supplier A,3,172.35,0,36.91
+997,Home,South,Referral,Supplier A,4,125.75,0,25.23
+998,Beauty,North,Referral,Supplier A,3,267.35,0,28.72
+999,Home,West,Email,Supplier B,1,69.14,0,33.82
+1000,Electronics,South,Direct,Supplier A,4,380.85,1,27.29

@@ -1,0 +1,1001 @@
+order_id,product_id,customer_id,order_date,category,region,marketing_channel,supplier,quantity,sales
+1,151,1033,2023-01-01,Sports,South,Direct,Supplier A,1,176.4
+2,192,1622,2023-01-02,Sports,West,Email,Supplier C,3,81.33
+3,114,1775,2023-01-03,Beauty,North,Direct,Supplier A,1,232.34
+4,171,1935,2023-01-04,Clothing,North,Email,Supplier C,1,40.39
+5,160,1368,2023-01-05,Sports,West,Referral,Supplier A,4,348.62
+6,120,1747,2023-01-06,Home,North,Referral,Supplier C,2,453.3
+7,182,1594,2023-01-07,Electronics,South,Email,Supplier A,4,421.89
+8,186,1553,2023-01-08,Electronics,South,Email,Supplier A,2,81.14
+9,174,1424,2023-01-09,Electronics,East,Email,Supplier C,3,80.61
+10,174,1612,2023-01-10,Clothing,North,Referral,Supplier B,1,410.45
+11,187,1517,2023-01-11,Beauty,East,Social Media,Supplier C,3,463.64
+12,199,1691,2023-01-12,Sports,North,Direct,Supplier B,2,241.12
+13,123,1281,2023-01-13,Home,South,Direct,Supplier A,4,259.51
+14,102,1319,2023-01-14,Home,South,Referral,Supplier C,4,172.77
+15,121,1737,2023-01-15,Clothing,South,Direct,Supplier C,3,449.25
+16,152,1442,2023-01-16,Electronics,North,Email,Supplier C,2,329.55
+17,101,1951,2023-01-17,Clothing,South,Social Media,Supplier B,3,158.36
+18,187,1314,2023-01-18,Beauty,North,Direct,Supplier B,3,163.42
+19,129,1876,2023-01-19,Beauty,East,Social Media,Supplier A,1,447.78
+20,137,1965,2023-01-20,Sports,North,Email,Supplier B,3,26.54
+21,101,1740,2023-01-21,Sports,East,Direct,Supplier B,1,174.91
+22,163,1376,2023-01-22,Beauty,North,Referral,Supplier A,1,286.09
+23,159,1288,2023-01-23,Beauty,East,Social Media,Supplier C,4,91.14
+24,120,1436,2023-01-24,Beauty,South,Email,Supplier C,1,64.21
+25,132,1661,2023-01-25,Clothing,East,Social Media,Supplier A,1,411.33
+26,175,1276,2023-01-26,Beauty,South,Direct,Supplier C,4,449.31
+27,157,1709,2023-01-27,Home,South,Direct,Supplier B,3,415.33
+28,121,1581,2023-01-28,Electronics,East,Referral,Supplier A,2,451.42
+29,188,1502,2023-01-29,Beauty,North,Email,Supplier A,2,285.49
+30,148,1623,2023-01-30,Electronics,North,Email,Supplier A,2,409.88
+31,190,1515,2023-01-31,Clothing,West,Referral,Supplier C,3,204.34
+32,158,1349,2023-02-01,Electronics,North,Referral,Supplier A,1,339.81
+33,141,1842,2023-02-02,Clothing,West,Email,Supplier A,2,494.64
+34,191,1445,2023-02-03,Home,North,Social Media,Supplier A,3,128.35
+35,159,1829,2023-02-04,Clothing,North,Social Media,Supplier C,1,207.15
+36,179,1349,2023-02-05,Clothing,South,Referral,Supplier B,4,250.42
+37,114,1606,2023-02-06,Sports,West,Social Media,Supplier A,2,86.25
+38,161,1663,2023-02-07,Beauty,North,Email,Supplier B,1,58.9
+39,161,1822,2023-02-08,Beauty,West,Direct,Supplier C,2,418.27
+40,146,1136,2023-02-09,Home,South,Direct,Supplier C,2,488.86
+41,161,1758,2023-02-10,Home,South,Social Media,Supplier C,2,214.27
+42,150,1898,2023-02-11,Beauty,West,Referral,Supplier C,1,62.07
+43,154,1242,2023-02-12,Sports,South,Referral,Supplier B,3,51.59
+44,163,1542,2023-02-13,Beauty,East,Referral,Supplier A,1,447.83
+45,102,1039,2023-02-14,Sports,East,Referral,Supplier C,2,242.63
+46,150,1228,2023-02-15,Home,South,Referral,Supplier C,1,173.61
+47,106,1547,2023-02-16,Electronics,East,Social Media,Supplier B,4,248.7
+48,120,1919,2023-02-17,Home,North,Direct,Supplier B,3,172.79
+49,172,1222,2023-02-18,Home,West,Direct,Supplier C,1,254.74
+50,138,1005,2023-02-19,Clothing,North,Social Media,Supplier A,4,432.59
+51,117,1321,2023-02-20,Clothing,West,Referral,Supplier A,3,304.3
+52,103,1467,2023-02-21,Clothing,South,Social Media,Supplier C,4,353.43
+53,188,1731,2023-02-22,Clothing,North,Direct,Supplier B,3,195.04
+54,159,1074,2023-02-23,Sports,South,Email,Supplier C,1,374.48
+55,113,1003,2023-02-24,Beauty,South,Social Media,Supplier C,4,339.98
+56,108,1846,2023-02-25,Electronics,West,Referral,Supplier B,2,77.39
+57,189,1645,2023-02-26,Home,West,Direct,Supplier C,4,294.87
+58,152,1117,2023-02-27,Sports,West,Direct,Supplier C,3,143.24
+59,101,1880,2023-02-28,Electronics,North,Direct,Supplier C,1,405.97
+60,183,1605,2023-03-01,Sports,East,Direct,Supplier B,3,224.45
+61,191,1503,2023-03-02,Sports,West,Referral,Supplier A,4,497.45
+62,159,1997,2023-03-03,Home,West,Email,Supplier A,4,64.4
+63,170,1946,2023-03-04,Beauty,North,Direct,Supplier B,2,394.57
+64,143,1573,2023-03-05,Clothing,West,Social Media,Supplier A,1,343.38
+65,107,1440,2023-03-06,Beauty,North,Email,Supplier C,1,388.4
+66,146,1193,2023-03-07,Home,South,Direct,Supplier A,4,167.61
+67,134,1846,2023-03-08,Home,West,Email,Supplier C,1,256.19
+68,177,1714,2023-03-09,Home,West,Social Media,Supplier A,2,402.32
+69,180,1391,2023-03-10,Electronics,South,Direct,Supplier B,3,131.62
+70,135,1025,2023-03-11,Beauty,South,Social Media,Supplier A,1,128.5
+71,149,1434,2023-03-12,Beauty,South,Referral,Supplier A,4,284.5
+72,103,1172,2023-03-13,Sports,West,Direct,Supplier A,3,271.31
+73,101,1299,2023-03-14,Sports,East,Direct,Supplier B,3,155.49
+74,105,1644,2023-03-15,Sports,East,Direct,Supplier A,2,163.08
+75,153,1325,2023-03-16,Home,East,Direct,Supplier B,4,153.37
+76,103,1409,2023-03-17,Beauty,West,Referral,Supplier C,1,390.33
+77,153,1117,2023-03-18,Home,South,Direct,Supplier A,4,332.91
+78,192,1835,2023-03-19,Electronics,West,Email,Supplier B,3,419.56
+79,162,1786,2023-03-20,Sports,South,Direct,Supplier B,4,488.23
+80,117,1723,2023-03-21,Home,West,Referral,Supplier A,1,247.6
+81,189,1224,2023-03-22,Home,West,Direct,Supplier C,1,52.01
+82,143,1531,2023-03-23,Electronics,South,Email,Supplier B,2,43.08
+83,133,1112,2023-03-24,Clothing,East,Referral,Supplier A,1,161.92
+84,173,1139,2023-03-25,Beauty,South,Referral,Supplier C,1,467.62
+85,161,1558,2023-03-26,Clothing,North,Email,Supplier B,4,271.14
+86,199,1000,2023-03-27,Sports,North,Email,Supplier B,4,150.46
+87,113,1089,2023-03-28,Home,South,Email,Supplier C,3,211.6
+88,194,1653,2023-03-29,Electronics,West,Email,Supplier C,2,307.33
+89,147,1319,2023-03-30,Electronics,North,Email,Supplier A,4,333.42
+90,114,1549,2023-03-31,Beauty,North,Referral,Supplier A,1,93.88
+91,171,1804,2023-04-01,Clothing,West,Referral,Supplier B,3,488.98
+92,177,1893,2023-04-02,Beauty,West,Direct,Supplier C,4,281.49
+93,186,1138,2023-04-03,Home,East,Direct,Supplier C,2,85.13
+94,161,1510,2023-04-04,Beauty,West,Social Media,Supplier C,2,448.94
+95,139,1867,2023-04-05,Electronics,South,Direct,Supplier B,3,55.83
+96,184,1844,2023-04-06,Electronics,South,Direct,Supplier C,3,455.71
+97,179,1258,2023-04-07,Sports,East,Email,Supplier C,3,498.35
+98,181,1672,2023-04-08,Sports,North,Email,Supplier B,3,356.21
+99,152,1901,2023-04-09,Home,North,Direct,Supplier A,3,389.81
+100,123,1689,2023-04-10,Clothing,West,Social Media,Supplier A,1,181.91
+101,125,1009,2023-04-11,Beauty,South,Email,Supplier B,1,471.96
+102,188,1260,2023-04-12,Home,North,Direct,Supplier C,4,274.26
+103,159,1918,2023-04-13,Sports,East,Direct,Supplier B,2,371.55
+104,140,1649,2023-04-14,Beauty,East,Referral,Supplier A,1,463.57
+105,128,1171,2023-04-15,Sports,South,Social Media,Supplier A,1,488.09
+106,114,1897,2023-04-16,Beauty,East,Referral,Supplier B,1,419.94
+107,144,1012,2023-04-17,Clothing,East,Social Media,Supplier B,4,165.45
+108,164,1167,2023-04-18,Home,South,Email,Supplier A,3,483.94
+109,188,1641,2023-04-19,Beauty,West,Social Media,Supplier B,4,321.5
+110,170,1595,2023-04-20,Electronics,West,Direct,Supplier A,2,466.71
+111,108,1320,2023-04-21,Electronics,East,Direct,Supplier B,2,344.53
+112,187,1318,2023-04-22,Beauty,West,Social Media,Supplier B,2,167.47
+113,100,1612,2023-04-23,Beauty,West,Social Media,Supplier B,2,197.61
+114,107,1328,2023-04-24,Beauty,East,Social Media,Supplier A,1,284.23
+115,187,1784,2023-04-25,Electronics,West,Referral,Supplier B,1,399.21
+116,162,1776,2023-04-26,Electronics,East,Social Media,Supplier A,4,172.63
+117,110,1970,2023-04-27,Beauty,North,Email,Supplier A,3,298.27
+118,180,1910,2023-04-28,Sports,South,Referral,Supplier B,2,185.9
+119,107,1919,2023-04-29,Sports,South,Referral,Supplier B,4,411.57
+120,134,1549,2023-04-30,Clothing,West,Social Media,Supplier A,1,244.03
+121,134,1418,2023-05-01,Home,West,Email,Supplier A,1,56.83
+122,132,1605,2023-05-02,Sports,West,Referral,Supplier C,3,99.71
+123,104,1094,2023-05-03,Electronics,South,Direct,Supplier A,3,49.33
+124,140,1816,2023-05-04,Sports,North,Referral,Supplier C,3,259.67
+125,127,1580,2023-05-05,Clothing,North,Social Media,Supplier C,4,71.04
+126,106,1317,2023-05-06,Clothing,South,Email,Supplier C,1,74.79
+127,172,1955,2023-05-07,Home,North,Social Media,Supplier B,1,471.7
+128,171,1235,2023-05-08,Sports,South,Direct,Supplier B,3,438.87
+129,111,1945,2023-05-09,Electronics,North,Direct,Supplier A,2,237.0
+130,133,1333,2023-05-10,Electronics,East,Direct,Supplier C,3,493.19
+131,132,1884,2023-05-11,Beauty,East,Social Media,Supplier B,4,20.09
+132,147,1375,2023-05-12,Electronics,South,Referral,Supplier B,3,314.71
+133,122,1458,2023-05-13,Home,North,Social Media,Supplier B,3,315.89
+134,161,1136,2023-05-14,Home,West,Email,Supplier B,4,239.57
+135,187,1929,2023-05-15,Electronics,North,Referral,Supplier B,3,210.54
+136,136,1587,2023-05-16,Electronics,East,Direct,Supplier C,1,238.58
+137,198,1994,2023-05-17,Beauty,East,Social Media,Supplier C,2,219.18
+138,143,1546,2023-05-18,Electronics,North,Direct,Supplier C,3,370.64
+139,185,1512,2023-05-19,Beauty,North,Direct,Supplier C,4,84.97
+140,190,1295,2023-05-20,Beauty,West,Email,Supplier A,2,114.87
+141,134,1319,2023-05-21,Electronics,West,Referral,Supplier C,4,106.65
+142,164,1917,2023-05-22,Clothing,North,Email,Supplier B,2,145.99
+143,198,1571,2023-05-23,Clothing,North,Email,Supplier C,2,272.12
+144,146,1831,2023-05-24,Beauty,North,Email,Supplier A,3,73.38
+145,177,1348,2023-05-25,Electronics,North,Direct,Supplier B,1,436.72
+146,102,1839,2023-05-26,Clothing,South,Email,Supplier C,3,162.73
+147,100,1778,2023-05-27,Electronics,North,Email,Supplier C,4,98.02
+148,104,1872,2023-05-28,Electronics,West,Referral,Supplier C,4,344.3
+149,189,1228,2023-05-29,Electronics,East,Referral,Supplier B,2,38.28
+150,113,1269,2023-05-30,Sports,South,Email,Supplier B,2,317.58
+151,126,1827,2023-05-31,Electronics,North,Referral,Supplier A,1,355.14
+152,108,1797,2023-06-01,Sports,East,Referral,Supplier B,3,123.16
+153,178,1290,2023-06-02,Beauty,South,Email,Supplier B,4,40.14
+154,114,1724,2023-06-03,Clothing,East,Direct,Supplier C,2,194.55
+155,189,1164,2023-06-04,Clothing,North,Email,Supplier B,1,67.33
+156,141,1004,2023-06-05,Clothing,North,Referral,Supplier C,4,75.91
+157,176,1850,2023-06-06,Clothing,West,Direct,Supplier C,2,142.05
+158,150,1378,2023-06-07,Clothing,North,Social Media,Supplier B,4,161.82
+159,162,1077,2023-06-08,Clothing,North,Direct,Supplier A,1,274.39
+160,195,1409,2023-06-09,Clothing,South,Referral,Supplier A,1,345.63
+161,151,1573,2023-06-10,Beauty,West,Direct,Supplier B,4,304.53
+162,195,1131,2023-06-11,Electronics,South,Email,Supplier A,3,91.21
+163,103,1600,2023-06-12,Home,East,Social Media,Supplier C,4,102.6
+164,193,1748,2023-06-13,Sports,North,Social Media,Supplier C,2,441.81
+165,122,1041,2023-06-14,Home,East,Social Media,Supplier B,3,288.01
+166,114,1088,2023-06-15,Home,South,Referral,Supplier A,2,437.57
+167,142,1401,2023-06-16,Electronics,North,Referral,Supplier A,4,198.34
+168,128,1295,2023-06-17,Electronics,North,Social Media,Supplier C,3,314.91
+169,135,1839,2023-06-18,Electronics,South,Direct,Supplier B,2,271.36
+170,112,1294,2023-06-19,Clothing,South,Social Media,Supplier A,4,173.18
+171,131,1615,2023-06-20,Beauty,South,Direct,Supplier B,4,245.56
+172,170,1525,2023-06-21,Clothing,South,Direct,Supplier A,3,261.2
+173,158,1799,2023-06-22,Beauty,South,Referral,Supplier C,4,116.37
+174,185,1690,2023-06-23,Beauty,North,Direct,Supplier C,1,171.2
+175,127,1636,2023-06-24,Home,South,Social Media,Supplier B,2,399.88
+176,165,1421,2023-06-25,Home,North,Referral,Supplier C,2,459.58
+177,141,1864,2023-06-26,Beauty,North,Email,Supplier A,4,192.7
+178,144,1022,2023-06-27,Beauty,South,Email,Supplier C,4,167.35
+179,161,1574,2023-06-28,Clothing,South,Referral,Supplier B,1,113.69
+180,156,1142,2023-06-29,Clothing,West,Social Media,Supplier B,3,345.68
+181,105,1992,2023-06-30,Home,North,Email,Supplier B,4,175.09
+182,127,1664,2023-07-01,Electronics,South,Email,Supplier A,4,494.12
+183,127,1144,2023-07-02,Beauty,South,Direct,Supplier A,4,176.33
+184,143,1224,2023-07-03,Clothing,South,Direct,Supplier A,4,209.19
+185,183,1502,2023-07-04,Home,West,Social Media,Supplier A,2,309.6
+186,129,1961,2023-07-05,Clothing,West,Referral,Supplier A,4,404.81
+187,161,1973,2023-07-06,Beauty,East,Social Media,Supplier C,2,245.37
+188,174,1820,2023-07-07,Beauty,North,Referral,Supplier A,4,222.87
+189,191,1615,2023-07-08,Sports,East,Email,Supplier A,3,497.91
+190,188,1103,2023-07-09,Electronics,South,Direct,Supplier C,1,25.04
+191,161,1946,2023-07-10,Sports,West,Social Media,Supplier A,3,449.63
+192,196,1038,2023-07-11,Home,West,Social Media,Supplier B,4,91.59
+193,100,1946,2023-07-12,Clothing,East,Referral,Supplier A,4,397.24
+194,126,1197,2023-07-13,Home,West,Referral,Supplier A,4,316.61
+195,161,1645,2023-07-14,Beauty,South,Social Media,Supplier B,3,184.09
+196,176,1578,2023-07-15,Sports,West,Referral,Supplier B,4,439.46
+197,102,1390,2023-07-16,Sports,East,Social Media,Supplier B,3,26.2
+198,169,1178,2023-07-17,Sports,South,Social Media,Supplier B,2,128.81
+199,171,1967,2023-07-18,Home,East,Social Media,Supplier A,1,292.11
+200,126,1553,2023-07-19,Beauty,West,Email,Supplier B,1,188.74
+201,108,1447,2023-07-20,Clothing,East,Referral,Supplier B,3,312.98
+202,161,1499,2023-07-21,Clothing,East,Direct,Supplier C,2,31.57
+203,136,1014,2023-07-22,Home,North,Direct,Supplier B,3,75.9
+204,196,1622,2023-07-23,Sports,West,Referral,Supplier B,2,81.01
+205,150,1668,2023-07-24,Electronics,West,Social Media,Supplier C,4,110.86
+206,143,1288,2023-07-25,Home,East,Direct,Supplier C,2,240.48
+207,123,1477,2023-07-26,Home,North,Direct,Supplier A,2,381.02
+208,178,1230,2023-07-27,Beauty,West,Referral,Supplier C,2,454.66
+209,158,1922,2023-07-28,Clothing,South,Direct,Supplier A,1,420.98
+210,131,1419,2023-07-29,Home,East,Social Media,Supplier C,2,114.51
+211,195,1156,2023-07-30,Home,West,Referral,Supplier C,4,231.75
+212,187,1549,2023-07-31,Sports,South,Social Media,Supplier A,4,115.72
+213,151,1440,2023-08-01,Sports,West,Direct,Supplier C,4,146.95
+214,161,1096,2023-08-02,Electronics,South,Direct,Supplier A,2,261.7
+215,157,1996,2023-08-03,Beauty,East,Social Media,Supplier C,3,52.69
+216,151,1410,2023-08-04,Electronics,West,Email,Supplier B,3,124.72
+217,111,1950,2023-08-05,Sports,West,Direct,Supplier C,4,468.98
+218,138,1288,2023-08-06,Clothing,North,Email,Supplier A,1,243.74
+219,101,1253,2023-08-07,Sports,East,Direct,Supplier C,3,233.79
+220,102,1195,2023-08-08,Beauty,South,Email,Supplier A,2,26.99
+221,155,1597,2023-08-09,Sports,West,Email,Supplier A,3,138.75
+222,180,1833,2023-08-10,Beauty,West,Email,Supplier B,4,435.82
+223,158,1521,2023-08-11,Beauty,South,Social Media,Supplier B,1,99.02
+224,101,1516,2023-08-12,Beauty,East,Email,Supplier A,3,219.26
+225,101,1634,2023-08-13,Beauty,North,Email,Supplier C,3,26.88
+226,191,1841,2023-08-14,Beauty,North,Email,Supplier A,4,249.6
+227,153,1864,2023-08-15,Clothing,West,Direct,Supplier A,1,30.09
+228,186,1117,2023-08-16,Electronics,South,Email,Supplier C,1,413.41
+229,195,1805,2023-08-17,Home,West,Direct,Supplier C,4,415.93
+230,196,1908,2023-08-18,Electronics,South,Email,Supplier C,2,398.12
+231,100,1158,2023-08-19,Beauty,North,Email,Supplier C,3,156.01
+232,118,1814,2023-08-20,Clothing,East,Social Media,Supplier A,2,421.87
+233,101,1227,2023-08-21,Sports,South,Direct,Supplier A,3,280.64
+234,152,1876,2023-08-22,Clothing,North,Email,Supplier B,3,199.43
+235,143,1215,2023-08-23,Beauty,West,Direct,Supplier A,2,320.16
+236,189,1947,2023-08-24,Clothing,South,Direct,Supplier C,4,25.92
+237,131,1695,2023-08-25,Clothing,East,Referral,Supplier B,4,88.62
+238,169,1014,2023-08-26,Beauty,West,Social Media,Supplier C,3,376.3
+239,131,1156,2023-08-27,Clothing,West,Social Media,Supplier A,4,137.2
+240,167,1647,2023-08-28,Home,North,Social Media,Supplier B,3,307.04
+241,154,1260,2023-08-29,Home,South,Referral,Supplier C,4,204.85
+242,174,1156,2023-08-30,Clothing,West,Referral,Supplier B,3,430.31
+243,155,1046,2023-08-31,Sports,East,Social Media,Supplier B,4,477.16
+244,116,1323,2023-09-01,Beauty,South,Referral,Supplier A,1,444.11
+245,137,1843,2023-09-02,Home,East,Referral,Supplier C,2,149.9
+246,123,1684,2023-09-03,Sports,West,Referral,Supplier B,1,113.2
+247,168,1129,2023-09-04,Clothing,East,Social Media,Supplier B,2,247.73
+248,197,1410,2023-09-05,Sports,North,Social Media,Supplier C,2,23.52
+249,169,1094,2023-09-06,Electronics,East,Social Media,Supplier B,3,32.39
+250,185,1626,2023-09-07,Home,South,Referral,Supplier B,2,285.58
+251,110,1754,2023-09-08,Clothing,East,Social Media,Supplier B,1,269.82
+252,115,1931,2023-09-09,Beauty,East,Referral,Supplier C,1,497.4
+253,196,1291,2023-09-10,Clothing,North,Email,Supplier C,4,116.88
+254,172,1793,2023-09-11,Beauty,East,Referral,Supplier C,1,143.89
+255,158,1810,2023-09-12,Clothing,East,Direct,Supplier C,4,74.5
+256,169,1282,2023-09-13,Sports,West,Social Media,Supplier A,2,460.42
+257,179,1068,2023-09-14,Sports,West,Social Media,Supplier B,1,393.35
+258,192,1659,2023-09-15,Sports,South,Direct,Supplier C,2,414.72
+259,102,1010,2023-09-16,Electronics,West,Referral,Supplier B,1,453.33
+260,119,1253,2023-09-17,Beauty,West,Email,Supplier B,1,271.95
+261,158,1841,2023-09-18,Sports,West,Direct,Supplier A,4,236.57
+262,135,1871,2023-09-19,Electronics,West,Direct,Supplier C,2,178.59
+263,118,1549,2023-09-20,Beauty,North,Referral,Supplier C,1,302.82
+264,189,1133,2023-09-21,Clothing,West,Social Media,Supplier B,3,238.05
+265,166,1711,2023-09-22,Electronics,North,Referral,Supplier C,2,236.75
+266,118,1022,2023-09-23,Home,North,Direct,Supplier B,2,469.73
+267,119,1814,2023-09-24,Electronics,West,Direct,Supplier B,2,492.34
+268,195,1345,2023-09-25,Electronics,East,Social Media,Supplier A,4,402.31
+269,170,1301,2023-09-26,Beauty,North,Social Media,Supplier A,3,383.24
+270,151,1362,2023-09-27,Clothing,East,Social Media,Supplier A,2,346.67
+271,132,1395,2023-09-28,Home,East,Referral,Supplier B,1,99.72
+272,139,1217,2023-09-29,Sports,West,Social Media,Supplier C,1,48.37
+273,138,1140,2023-09-30,Sports,South,Direct,Supplier A,4,351.55
+274,181,1615,2023-10-01,Electronics,West,Direct,Supplier C,1,369.82
+275,100,1957,2023-10-02,Beauty,South,Email,Supplier A,2,42.55
+276,110,1209,2023-10-03,Beauty,South,Referral,Supplier A,1,465.46
+277,191,1984,2023-10-04,Sports,West,Email,Supplier B,2,63.75
+278,156,1992,2023-10-05,Home,West,Direct,Supplier A,1,157.23
+279,188,1622,2023-10-06,Clothing,South,Email,Supplier A,3,342.75
+280,149,1615,2023-10-07,Home,West,Direct,Supplier B,4,101.54
+281,122,1827,2023-10-08,Clothing,South,Email,Supplier C,4,46.6
+282,130,1682,2023-10-09,Sports,East,Social Media,Supplier A,3,178.95
+283,193,1459,2023-10-10,Clothing,West,Email,Supplier B,3,387.67
+284,141,1355,2023-10-11,Beauty,East,Social Media,Supplier A,4,218.57
+285,198,1323,2023-10-12,Electronics,North,Social Media,Supplier B,3,333.43
+286,106,1132,2023-10-13,Electronics,East,Referral,Supplier C,2,298.22
+287,115,1887,2023-10-14,Sports,East,Social Media,Supplier C,1,30.66
+288,189,1804,2023-10-15,Beauty,South,Social Media,Supplier B,4,494.5
+289,159,1839,2023-10-16,Home,East,Email,Supplier B,3,39.89
+290,101,1126,2023-10-17,Beauty,West,Direct,Supplier B,2,484.55
+291,100,1105,2023-10-18,Electronics,South,Referral,Supplier C,4,283.93
+292,147,1603,2023-10-19,Electronics,North,Social Media,Supplier A,3,482.32
+293,111,1798,2023-10-20,Beauty,West,Referral,Supplier C,4,75.08
+294,168,1377,2023-10-21,Beauty,North,Email,Supplier B,3,255.4
+295,136,1904,2023-10-22,Electronics,East,Social Media,Supplier B,4,101.36
+296,131,1050,2023-10-23,Home,West,Email,Supplier C,2,44.47
+297,108,1028,2023-10-24,Sports,West,Referral,Supplier B,2,316.41
+298,198,1461,2023-10-25,Sports,North,Email,Supplier C,1,119.74
+299,118,1295,2023-10-26,Beauty,West,Referral,Supplier B,4,302.09
+300,147,1296,2023-10-27,Sports,West,Email,Supplier A,1,73.93
+301,179,1725,2023-10-28,Electronics,West,Referral,Supplier A,4,179.35
+302,102,1778,2023-10-29,Electronics,East,Direct,Supplier B,3,395.18
+303,119,1406,2023-10-30,Beauty,North,Email,Supplier C,3,229.78
+304,123,1768,2023-10-31,Beauty,West,Email,Supplier A,1,321.32
+305,153,1813,2023-11-01,Beauty,South,Direct,Supplier C,4,330.78
+306,132,1612,2023-11-02,Home,South,Direct,Supplier B,1,425.0
+307,123,1404,2023-11-03,Sports,South,Email,Supplier C,2,175.96
+308,174,1345,2023-11-04,Beauty,South,Direct,Supplier A,1,349.9
+309,171,1621,2023-11-05,Clothing,East,Social Media,Supplier C,1,481.58
+310,135,1419,2023-11-06,Clothing,West,Referral,Supplier C,3,370.52
+311,137,1181,2023-11-07,Electronics,North,Referral,Supplier B,1,255.14
+312,183,1982,2023-11-08,Sports,West,Referral,Supplier B,4,322.74
+313,198,1824,2023-11-09,Beauty,East,Social Media,Supplier B,3,375.05
+314,188,1000,2023-11-10,Clothing,South,Direct,Supplier A,1,313.89
+315,198,1830,2023-11-11,Sports,East,Direct,Supplier A,2,28.0
+316,124,1949,2023-11-12,Electronics,West,Email,Supplier B,1,113.49
+317,192,1566,2023-11-13,Home,North,Direct,Supplier B,1,409.02
+318,117,1370,2023-11-14,Sports,East,Email,Supplier A,1,150.87
+319,181,1935,2023-11-15,Sports,North,Social Media,Supplier A,3,371.15
+320,165,1910,2023-11-16,Home,East,Referral,Supplier A,4,198.62
+321,153,1660,2023-11-17,Sports,North,Referral,Supplier A,2,270.5
+322,134,1430,2023-11-18,Electronics,North,Referral,Supplier B,1,52.63
+323,179,1968,2023-11-19,Electronics,South,Direct,Supplier A,4,106.99
+324,160,1308,2023-11-20,Home,North,Email,Supplier B,4,479.45
+325,140,1136,2023-11-21,Beauty,South,Email,Supplier C,3,447.27
+326,199,1201,2023-11-22,Clothing,West,Social Media,Supplier C,2,333.09
+327,132,1435,2023-11-23,Beauty,West,Direct,Supplier A,3,240.63
+328,167,1312,2023-11-24,Sports,South,Social Media,Supplier C,4,344.37
+329,132,1116,2023-11-25,Clothing,South,Email,Supplier C,4,316.93
+330,113,1665,2023-11-26,Home,East,Email,Supplier C,4,292.91
+331,120,1936,2023-11-27,Home,East,Referral,Supplier A,3,48.4
+332,147,1802,2023-11-28,Clothing,East,Direct,Supplier A,2,323.75
+333,119,1574,2023-11-29,Electronics,West,Email,Supplier C,1,389.08
+334,107,1243,2023-11-30,Clothing,East,Referral,Supplier B,3,497.16
+335,106,1536,2023-12-01,Sports,North,Direct,Supplier C,4,25.32
+336,166,1601,2023-12-02,Electronics,North,Social Media,Supplier A,3,370.48
+337,116,1074,2023-12-03,Home,East,Direct,Supplier A,4,294.46
+338,132,1805,2023-12-04,Clothing,North,Direct,Supplier A,1,228.35
+339,147,1385,2023-12-05,Beauty,West,Email,Supplier C,1,81.23
+340,175,1902,2023-12-06,Beauty,North,Email,Supplier B,2,216.36
+341,158,1209,2023-12-07,Sports,West,Direct,Supplier A,4,190.1
+342,185,1474,2023-12-08,Beauty,South,Email,Supplier A,2,165.36
+343,121,1417,2023-12-09,Clothing,South,Email,Supplier C,2,370.82
+344,129,1346,2023-12-10,Clothing,South,Email,Supplier B,1,356.35
+345,137,1528,2023-12-11,Beauty,South,Referral,Supplier C,3,302.73
+346,150,1639,2023-12-12,Clothing,North,Referral,Supplier A,3,470.56
+347,153,1938,2023-12-13,Sports,East,Direct,Supplier B,2,187.93
+348,107,1954,2023-12-14,Electronics,North,Email,Supplier B,1,137.02
+349,126,1875,2023-12-15,Sports,West,Referral,Supplier A,4,334.83
+350,126,1762,2023-12-16,Sports,North,Direct,Supplier B,3,115.43
+351,197,1178,2023-12-17,Clothing,North,Email,Supplier B,2,171.21
+352,120,1181,2023-12-18,Electronics,West,Social Media,Supplier C,3,127.81
+353,129,1663,2023-12-19,Clothing,South,Email,Supplier A,3,53.19
+354,196,1024,2023-12-20,Home,South,Email,Supplier A,4,417.2
+355,127,1966,2023-12-21,Clothing,South,Referral,Supplier A,1,142.18
+356,163,1179,2023-12-22,Clothing,East,Direct,Supplier A,4,247.05
+357,196,1709,2023-12-23,Clothing,West,Direct,Supplier A,1,40.79
+358,168,1500,2023-12-24,Electronics,West,Referral,Supplier B,3,355.68
+359,160,1855,2023-12-25,Clothing,North,Email,Supplier C,2,178.67
+360,147,1160,2023-12-26,Electronics,East,Social Media,Supplier A,4,377.47
+361,118,1176,2023-12-27,Beauty,South,Email,Supplier C,1,217.95
+362,103,1284,2023-12-28,Home,East,Email,Supplier C,3,113.96
+363,134,1062,2023-12-29,Electronics,West,Social Media,Supplier B,1,266.32
+364,163,1661,2023-12-30,Beauty,West,Referral,Supplier A,1,82.64
+365,148,1665,2023-12-31,Electronics,North,Direct,Supplier B,1,231.46
+366,116,1155,2024-01-01,Electronics,North,Referral,Supplier A,3,172.31
+367,143,1881,2024-01-02,Home,West,Referral,Supplier B,2,457.74
+368,191,1468,2024-01-03,Sports,South,Email,Supplier C,2,49.25
+369,129,1048,2024-01-04,Sports,South,Direct,Supplier A,2,353.13
+370,192,1966,2024-01-05,Electronics,East,Direct,Supplier C,1,107.72
+371,145,1848,2024-01-06,Clothing,West,Referral,Supplier C,3,173.14
+372,105,1083,2024-01-07,Beauty,West,Social Media,Supplier B,1,219.45
+373,198,1360,2024-01-08,Clothing,South,Referral,Supplier A,2,455.85
+374,136,1688,2024-01-09,Clothing,South,Social Media,Supplier C,2,136.44
+375,123,1147,2024-01-10,Electronics,West,Direct,Supplier B,3,63.83
+376,192,1629,2024-01-11,Electronics,North,Referral,Supplier A,1,172.97
+377,145,1341,2024-01-12,Electronics,West,Email,Supplier A,4,70.24
+378,152,1475,2024-01-13,Electronics,West,Referral,Supplier C,4,81.73
+379,194,1062,2024-01-14,Sports,South,Direct,Supplier A,2,295.45
+380,198,1700,2024-01-15,Electronics,South,Email,Supplier C,3,49.23
+381,159,1359,2024-01-16,Sports,North,Email,Supplier A,1,34.85
+382,196,1560,2024-01-17,Sports,North,Social Media,Supplier B,1,362.92
+383,162,1326,2024-01-18,Electronics,East,Email,Supplier C,2,193.59
+384,184,1768,2024-01-19,Home,West,Email,Supplier C,2,80.18
+385,131,1735,2024-01-20,Beauty,South,Referral,Supplier A,1,141.73
+386,186,1140,2024-01-21,Clothing,North,Direct,Supplier A,1,328.2
+387,132,1989,2024-01-22,Sports,East,Social Media,Supplier C,2,152.26
+388,166,1214,2024-01-23,Beauty,East,Referral,Supplier A,1,257.37
+389,117,1434,2024-01-24,Home,South,Email,Supplier B,4,78.41
+390,124,1890,2024-01-25,Clothing,South,Email,Supplier A,2,302.28
+391,194,1951,2024-01-26,Clothing,East,Social Media,Supplier B,1,171.72
+392,153,1722,2024-01-27,Sports,North,Direct,Supplier B,2,320.94
+393,157,1317,2024-01-28,Electronics,East,Social Media,Supplier B,3,408.03
+394,166,1031,2024-01-29,Home,West,Referral,Supplier B,2,313.59
+395,145,1669,2024-01-30,Sports,West,Social Media,Supplier B,2,161.96
+396,123,1284,2024-01-31,Home,South,Email,Supplier A,3,142.76
+397,131,1304,2024-02-01,Electronics,North,Referral,Supplier B,4,177.16
+398,146,1428,2024-02-02,Electronics,North,Email,Supplier A,1,99.02
+399,185,1476,2024-02-03,Sports,West,Direct,Supplier B,3,106.96
+400,122,1285,2024-02-04,Electronics,East,Email,Supplier C,2,399.53
+401,165,1143,2024-02-05,Beauty,South,Email,Supplier B,1,204.67
+402,126,1423,2024-02-06,Clothing,East,Social Media,Supplier C,3,229.28
+403,101,1018,2024-02-07,Sports,East,Email,Supplier B,1,305.14
+404,189,1017,2024-02-08,Home,East,Referral,Supplier B,1,303.03
+405,116,1768,2024-02-09,Beauty,North,Referral,Supplier B,3,52.34
+406,132,1589,2024-02-10,Sports,West,Direct,Supplier C,1,419.14
+407,108,1370,2024-02-11,Electronics,North,Referral,Supplier C,4,105.12
+408,142,1174,2024-02-12,Electronics,West,Social Media,Supplier B,3,367.07
+409,147,1193,2024-02-13,Electronics,South,Direct,Supplier A,4,390.88
+410,138,1501,2024-02-14,Electronics,South,Referral,Supplier B,2,363.15
+411,192,1987,2024-02-15,Home,East,Social Media,Supplier C,1,297.91
+412,141,1112,2024-02-16,Beauty,West,Referral,Supplier B,2,27.01
+413,125,1113,2024-02-17,Clothing,West,Referral,Supplier C,2,192.98
+414,198,1221,2024-02-18,Home,West,Email,Supplier C,1,310.32
+415,149,1677,2024-02-19,Home,East,Referral,Supplier C,3,205.98
+416,124,1946,2024-02-20,Clothing,East,Referral,Supplier B,1,434.47
+417,123,1830,2024-02-21,Clothing,South,Social Media,Supplier C,2,168.23
+418,112,1643,2024-02-22,Electronics,North,Social Media,Supplier C,2,160.9
+419,159,1896,2024-02-23,Home,West,Email,Supplier B,3,147.68
+420,106,1263,2024-02-24,Sports,West,Referral,Supplier C,1,179.73
+421,156,1924,2024-02-25,Clothing,North,Email,Supplier B,2,287.55
+422,135,1054,2024-02-26,Clothing,West,Referral,Supplier C,4,359.37
+423,144,1870,2024-02-27,Beauty,East,Direct,Supplier A,2,338.03
+424,119,1642,2024-02-28,Sports,East,Direct,Supplier A,2,407.7
+425,164,1799,2024-02-29,Sports,West,Email,Supplier C,3,445.24
+426,107,1777,2024-03-01,Clothing,East,Email,Supplier A,4,411.72
+427,115,1457,2024-03-02,Electronics,East,Email,Supplier B,2,29.09
+428,113,1978,2024-03-03,Beauty,West,Social Media,Supplier A,2,373.24
+429,175,1877,2024-03-04,Sports,South,Social Media,Supplier C,4,120.03
+430,186,1161,2024-03-05,Clothing,North,Social Media,Supplier C,1,83.81
+431,114,1379,2024-03-06,Sports,East,Email,Supplier B,1,326.47
+432,191,1992,2024-03-07,Beauty,South,Referral,Supplier C,2,173.48
+433,197,1086,2024-03-08,Beauty,East,Direct,Supplier B,2,47.42
+434,165,1054,2024-03-09,Home,East,Email,Supplier A,1,86.06
+435,131,1475,2024-03-10,Clothing,North,Social Media,Supplier A,3,20.45
+436,186,1799,2024-03-11,Beauty,East,Social Media,Supplier B,4,453.55
+437,162,1177,2024-03-12,Home,North,Email,Supplier B,4,31.82
+438,185,1390,2024-03-13,Home,North,Email,Supplier C,3,120.54
+439,150,1348,2024-03-14,Sports,North,Social Media,Supplier A,3,219.81
+440,124,1007,2024-03-15,Sports,South,Referral,Supplier B,3,191.15
+441,157,1832,2024-03-16,Home,West,Social Media,Supplier A,3,457.63
+442,162,1312,2024-03-17,Sports,South,Social Media,Supplier B,3,39.34
+443,161,1758,2024-03-18,Beauty,West,Email,Supplier A,3,265.86
+444,121,1834,2024-03-19,Electronics,West,Referral,Supplier C,4,346.63
+445,157,1983,2024-03-20,Beauty,North,Social Media,Supplier A,3,467.22
+446,157,1982,2024-03-21,Home,East,Social Media,Supplier A,1,317.78
+447,185,1442,2024-03-22,Home,North,Direct,Supplier A,3,405.8
+448,148,1766,2024-03-23,Beauty,East,Email,Supplier A,3,60.19
+449,151,1327,2024-03-24,Sports,West,Direct,Supplier A,4,205.25
+450,141,1053,2024-03-25,Sports,North,Direct,Supplier C,4,199.49
+451,169,1760,2024-03-26,Home,East,Social Media,Supplier B,3,445.42
+452,114,1238,2024-03-27,Clothing,South,Email,Supplier A,4,92.66
+453,153,1228,2024-03-28,Sports,East,Referral,Supplier C,2,92.91
+454,159,1578,2024-03-29,Beauty,North,Social Media,Supplier A,4,177.71
+455,196,1050,2024-03-30,Sports,South,Referral,Supplier A,4,46.14
+456,107,1608,2024-03-31,Beauty,East,Referral,Supplier B,4,107.58
+457,152,1603,2024-04-01,Home,East,Email,Supplier A,4,483.3
+458,159,1263,2024-04-02,Sports,East,Direct,Supplier C,1,225.53
+459,104,1417,2024-04-03,Beauty,East,Email,Supplier C,1,323.37
+460,167,1802,2024-04-04,Home,East,Referral,Supplier B,1,368.53
+461,105,1095,2024-04-05,Clothing,South,Social Media,Supplier A,3,196.14
+462,195,1087,2024-04-06,Beauty,West,Referral,Supplier C,3,90.67
+463,193,1077,2024-04-07,Clothing,South,Social Media,Supplier A,2,119.16
+464,146,1287,2024-04-08,Clothing,South,Social Media,Supplier A,1,170.37
+465,198,1119,2024-04-09,Electronics,South,Email,Supplier A,3,325.31
+466,154,1813,2024-04-10,Sports,West,Referral,Supplier B,4,211.17
+467,139,1490,2024-04-11,Beauty,North,Direct,Supplier A,4,23.27
+468,151,1911,2024-04-12,Clothing,West,Referral,Supplier C,1,271.24
+469,115,1451,2024-04-13,Electronics,South,Referral,Supplier A,2,462.33
+470,112,1499,2024-04-14,Home,East,Direct,Supplier C,2,409.8
+471,129,1164,2024-04-15,Beauty,East,Email,Supplier A,4,416.1
+472,118,1181,2024-04-16,Clothing,South,Referral,Supplier C,2,401.63
+473,116,1468,2024-04-17,Sports,East,Referral,Supplier C,1,175.39
+474,162,1909,2024-04-18,Electronics,South,Social Media,Supplier A,4,387.29
+475,118,1734,2024-04-19,Clothing,East,Referral,Supplier A,3,88.72
+476,191,1822,2024-04-20,Sports,West,Direct,Supplier C,3,335.7
+477,157,1943,2024-04-21,Clothing,North,Social Media,Supplier B,2,327.95
+478,154,1977,2024-04-22,Beauty,North,Email,Supplier A,4,32.27
+479,189,1006,2024-04-23,Beauty,West,Social Media,Supplier B,4,398.23
+480,189,1329,2024-04-24,Beauty,West,Direct,Supplier A,3,453.56
+481,161,1774,2024-04-25,Electronics,South,Direct,Supplier A,4,148.36
+482,122,1672,2024-04-26,Beauty,South,Social Media,Supplier A,4,409.95
+483,108,1150,2024-04-27,Sports,South,Email,Supplier A,4,59.55
+484,111,1084,2024-04-28,Clothing,East,Social Media,Supplier B,2,307.98
+485,100,1146,2024-04-29,Home,South,Email,Supplier A,4,253.11
+486,157,1623,2024-04-30,Sports,West,Social Media,Supplier C,1,282.04
+487,100,1380,2024-05-01,Sports,North,Direct,Supplier C,2,464.58
+488,133,1914,2024-05-02,Beauty,East,Referral,Supplier B,4,438.23
+489,195,1547,2024-05-03,Electronics,South,Referral,Supplier A,4,396.84
+490,147,1284,2024-05-04,Clothing,East,Email,Supplier C,1,151.38
+491,188,1699,2024-05-05,Electronics,East,Email,Supplier B,2,457.67
+492,100,1081,2024-05-06,Clothing,South,Email,Supplier A,3,66.8
+493,115,1513,2024-05-07,Clothing,East,Direct,Supplier C,3,429.6
+494,160,1896,2024-05-08,Electronics,North,Social Media,Supplier C,2,177.52
+495,163,1814,2024-05-09,Sports,West,Direct,Supplier B,4,45.81
+496,162,1708,2024-05-10,Clothing,West,Referral,Supplier A,4,341.29
+497,168,1915,2024-05-11,Electronics,North,Email,Supplier A,3,131.01
+498,121,1522,2024-05-12,Clothing,East,Social Media,Supplier C,3,136.91
+499,192,1745,2024-05-13,Home,South,Referral,Supplier C,3,166.9
+500,166,1385,2024-05-14,Sports,East,Referral,Supplier C,1,50.57
+501,175,1706,2024-05-15,Beauty,North,Referral,Supplier A,3,105.02
+502,125,1470,2024-05-16,Clothing,East,Direct,Supplier B,1,22.47
+503,115,1118,2024-05-17,Home,West,Email,Supplier B,2,233.8
+504,150,1395,2024-05-18,Beauty,East,Referral,Supplier A,4,60.44
+505,185,1531,2024-05-19,Beauty,North,Email,Supplier B,3,347.67
+506,156,1260,2024-05-20,Clothing,West,Direct,Supplier C,4,133.1
+507,128,1804,2024-05-21,Electronics,East,Referral,Supplier B,4,472.92
+508,177,1933,2024-05-22,Clothing,East,Direct,Supplier B,3,438.2
+509,191,1255,2024-05-23,Home,West,Direct,Supplier B,3,158.93
+510,168,1733,2024-05-24,Beauty,South,Email,Supplier C,2,395.94
+511,146,1904,2024-05-25,Clothing,West,Referral,Supplier A,1,405.56
+512,193,1225,2024-05-26,Electronics,South,Direct,Supplier C,1,493.55
+513,161,1052,2024-05-27,Clothing,North,Referral,Supplier A,4,306.96
+514,168,1939,2024-05-28,Sports,North,Email,Supplier A,3,59.34
+515,175,1866,2024-05-29,Electronics,West,Direct,Supplier A,2,330.48
+516,115,1499,2024-05-30,Home,West,Email,Supplier B,2,319.99
+517,189,1505,2024-05-31,Beauty,North,Referral,Supplier B,2,326.41
+518,189,1853,2024-06-01,Clothing,South,Referral,Supplier A,2,167.43
+519,147,1363,2024-06-02,Electronics,North,Email,Supplier A,2,432.65
+520,184,1279,2024-06-03,Sports,West,Social Media,Supplier B,1,480.55
+521,138,1592,2024-06-04,Electronics,North,Direct,Supplier C,1,124.5
+522,199,1713,2024-06-05,Sports,West,Referral,Supplier A,1,62.31
+523,132,1157,2024-06-06,Home,West,Referral,Supplier C,3,113.38
+524,193,1631,2024-06-07,Beauty,North,Direct,Supplier B,4,413.87
+525,122,1058,2024-06-08,Home,South,Email,Supplier A,2,344.79
+526,109,1726,2024-06-09,Clothing,East,Email,Supplier C,3,325.3
+527,168,1127,2024-06-10,Electronics,North,Email,Supplier C,2,212.86
+528,199,1735,2024-06-11,Sports,East,Social Media,Supplier C,1,297.36
+529,133,1720,2024-06-12,Sports,North,Social Media,Supplier B,3,167.78
+530,151,1881,2024-06-13,Electronics,East,Referral,Supplier B,1,249.06
+531,194,1114,2024-06-14,Electronics,South,Email,Supplier C,2,400.67
+532,109,1208,2024-06-15,Clothing,South,Direct,Supplier C,2,491.0
+533,118,1525,2024-06-16,Home,North,Referral,Supplier B,4,467.59
+534,157,1520,2024-06-17,Sports,West,Direct,Supplier C,2,468.26
+535,195,1551,2024-06-18,Clothing,East,Referral,Supplier C,1,213.07
+536,100,1961,2024-06-19,Home,West,Social Media,Supplier B,2,245.02
+537,168,1236,2024-06-20,Clothing,West,Referral,Supplier C,4,358.7
+538,103,1280,2024-06-21,Sports,West,Social Media,Supplier C,4,462.65
+539,115,1358,2024-06-22,Electronics,South,Referral,Supplier C,1,88.16
+540,123,1200,2024-06-23,Electronics,North,Email,Supplier B,3,166.04
+541,179,1757,2024-06-24,Home,North,Direct,Supplier C,2,86.84
+542,101,1277,2024-06-25,Beauty,South,Email,Supplier B,4,313.76
+543,191,1234,2024-06-26,Home,South,Referral,Supplier B,2,167.02
+544,131,1493,2024-06-27,Beauty,North,Referral,Supplier A,2,176.53
+545,190,1003,2024-06-28,Clothing,West,Referral,Supplier A,3,54.04
+546,183,1665,2024-06-29,Clothing,East,Social Media,Supplier C,4,187.9
+547,123,1441,2024-06-30,Sports,East,Direct,Supplier B,2,434.0
+548,111,1028,2024-07-01,Beauty,East,Direct,Supplier A,4,131.87
+549,149,1108,2024-07-02,Sports,West,Referral,Supplier C,1,353.69
+550,134,1609,2024-07-03,Electronics,North,Referral,Supplier A,1,322.22
+551,132,1726,2024-07-04,Beauty,South,Social Media,Supplier A,2,434.47
+552,132,1804,2024-07-05,Home,North,Email,Supplier B,4,83.5
+553,160,1074,2024-07-06,Electronics,West,Email,Supplier B,2,489.24
+554,150,1837,2024-07-07,Electronics,South,Direct,Supplier A,4,299.66
+555,142,1145,2024-07-08,Home,West,Social Media,Supplier A,4,497.83
+556,111,1127,2024-07-09,Electronics,East,Referral,Supplier B,3,457.53
+557,166,1852,2024-07-10,Beauty,East,Direct,Supplier C,3,126.33
+558,164,1041,2024-07-11,Sports,West,Social Media,Supplier B,3,46.96
+559,132,1355,2024-07-12,Electronics,South,Email,Supplier A,2,142.71
+560,139,1040,2024-07-13,Beauty,South,Social Media,Supplier C,3,273.23
+561,173,1933,2024-07-14,Clothing,North,Email,Supplier A,3,102.37
+562,142,1033,2024-07-15,Beauty,East,Social Media,Supplier C,1,100.38
+563,143,1016,2024-07-16,Sports,North,Direct,Supplier A,4,242.04
+564,128,1676,2024-07-17,Beauty,North,Email,Supplier C,4,35.97
+565,112,1152,2024-07-18,Home,West,Direct,Supplier C,3,78.51
+566,111,1997,2024-07-19,Sports,West,Direct,Supplier A,4,219.61
+567,194,1377,2024-07-20,Clothing,North,Email,Supplier C,1,50.3
+568,145,1587,2024-07-21,Home,East,Email,Supplier B,1,210.44
+569,101,1598,2024-07-22,Beauty,West,Referral,Supplier A,3,247.52
+570,134,1628,2024-07-23,Sports,North,Referral,Supplier B,1,236.61
+571,186,1873,2024-07-24,Clothing,North,Referral,Supplier A,4,437.2
+572,180,1341,2024-07-25,Home,North,Direct,Supplier C,2,274.43
+573,189,1980,2024-07-26,Clothing,North,Direct,Supplier C,4,244.63
+574,107,1026,2024-07-27,Beauty,North,Referral,Supplier C,2,217.14
+575,192,1824,2024-07-28,Clothing,North,Direct,Supplier A,3,412.46
+576,125,1286,2024-07-29,Electronics,West,Direct,Supplier B,2,449.63
+577,173,1645,2024-07-30,Home,East,Email,Supplier B,1,429.56
+578,189,1730,2024-07-31,Clothing,North,Email,Supplier A,4,343.3
+579,133,1167,2024-08-01,Beauty,South,Direct,Supplier A,2,85.93
+580,106,1609,2024-08-02,Beauty,West,Referral,Supplier B,4,152.9
+581,167,1267,2024-08-03,Clothing,West,Social Media,Supplier B,3,42.11
+582,157,1748,2024-08-04,Beauty,North,Referral,Supplier B,3,466.8
+583,174,1820,2024-08-05,Sports,West,Social Media,Supplier B,1,337.18
+584,128,1454,2024-08-06,Sports,North,Referral,Supplier A,3,378.25
+585,135,1905,2024-08-07,Sports,East,Email,Supplier A,2,169.55
+586,188,1684,2024-08-08,Electronics,East,Direct,Supplier C,3,425.91
+587,120,1400,2024-08-09,Clothing,West,Direct,Supplier B,1,144.61
+588,135,1921,2024-08-10,Electronics,West,Email,Supplier C,4,20.79
+589,109,1980,2024-08-11,Beauty,South,Social Media,Supplier A,4,200.68
+590,172,1475,2024-08-12,Electronics,West,Social Media,Supplier A,3,293.97
+591,123,1701,2024-08-13,Beauty,South,Social Media,Supplier C,2,249.78
+592,163,1633,2024-08-14,Beauty,East,Email,Supplier B,1,433.8
+593,198,1557,2024-08-15,Home,East,Social Media,Supplier B,2,70.59
+594,148,1575,2024-08-16,Sports,North,Email,Supplier B,1,285.84
+595,198,1129,2024-08-17,Beauty,East,Referral,Supplier B,3,266.23
+596,135,1821,2024-08-18,Home,South,Referral,Supplier C,1,155.07
+597,181,1362,2024-08-19,Sports,West,Email,Supplier C,1,414.67
+598,195,1704,2024-08-20,Beauty,North,Direct,Supplier A,3,381.37
+599,123,1818,2024-08-21,Beauty,South,Referral,Supplier B,2,371.77
+600,122,1692,2024-08-22,Electronics,West,Social Media,Supplier B,3,440.57
+601,161,1291,2024-08-23,Electronics,North,Email,Supplier B,1,366.94
+602,195,1370,2024-08-24,Sports,East,Social Media,Supplier C,3,131.28
+603,136,1793,2024-08-25,Beauty,South,Social Media,Supplier B,1,358.67
+604,111,1028,2024-08-26,Clothing,West,Direct,Supplier C,3,167.7
+605,154,1148,2024-08-27,Electronics,North,Social Media,Supplier B,4,136.24
+606,112,1778,2024-08-28,Sports,North,Direct,Supplier B,4,55.04
+607,122,1295,2024-08-29,Beauty,East,Referral,Supplier A,3,377.13
+608,188,1010,2024-08-30,Beauty,West,Email,Supplier B,2,361.28
+609,198,1511,2024-08-31,Clothing,East,Social Media,Supplier B,1,132.56
+610,129,1675,2024-09-01,Sports,East,Email,Supplier A,4,379.7
+611,116,1112,2024-09-02,Beauty,West,Social Media,Supplier C,2,460.56
+612,161,1186,2024-09-03,Electronics,West,Email,Supplier C,1,71.85
+613,183,1806,2024-09-04,Clothing,West,Social Media,Supplier B,4,131.67
+614,188,1743,2024-09-05,Sports,South,Social Media,Supplier C,4,380.13
+615,185,1226,2024-09-06,Clothing,West,Social Media,Supplier B,3,151.76
+616,112,1309,2024-09-07,Electronics,North,Social Media,Supplier A,1,319.84
+617,158,1097,2024-09-08,Sports,East,Social Media,Supplier A,2,58.96
+618,118,1054,2024-09-09,Clothing,South,Social Media,Supplier B,2,237.06
+619,148,1622,2024-09-10,Home,West,Social Media,Supplier A,2,374.76
+620,199,1663,2024-09-11,Electronics,South,Social Media,Supplier A,1,349.53
+621,111,1757,2024-09-12,Electronics,West,Social Media,Supplier B,2,411.23
+622,160,1405,2024-09-13,Electronics,South,Email,Supplier B,2,441.18
+623,118,1068,2024-09-14,Home,East,Direct,Supplier A,2,391.13
+624,175,1311,2024-09-15,Home,East,Social Media,Supplier C,3,342.36
+625,108,1288,2024-09-16,Beauty,North,Direct,Supplier C,3,35.23
+626,170,1761,2024-09-17,Clothing,North,Social Media,Supplier B,1,276.78
+627,127,1547,2024-09-18,Beauty,West,Social Media,Supplier B,1,38.09
+628,177,1750,2024-09-19,Clothing,East,Email,Supplier C,2,407.87
+629,194,1147,2024-09-20,Home,South,Referral,Supplier A,3,173.95
+630,151,1466,2024-09-21,Home,South,Referral,Supplier C,4,289.97
+631,182,1738,2024-09-22,Beauty,South,Email,Supplier C,4,154.13
+632,115,1243,2024-09-23,Sports,North,Direct,Supplier C,2,395.6
+633,168,1490,2024-09-24,Beauty,South,Referral,Supplier C,2,445.52
+634,198,1848,2024-09-25,Clothing,North,Email,Supplier B,3,211.35
+635,111,1957,2024-09-26,Beauty,North,Email,Supplier B,3,434.2
+636,124,1506,2024-09-27,Electronics,West,Referral,Supplier A,3,148.2
+637,151,1364,2024-09-28,Clothing,South,Direct,Supplier A,1,276.64
+638,184,1481,2024-09-29,Clothing,South,Email,Supplier A,1,432.21
+639,199,1200,2024-09-30,Sports,East,Social Media,Supplier A,2,176.42
+640,152,1153,2024-10-01,Home,West,Direct,Supplier C,1,477.94
+641,122,1449,2024-10-02,Clothing,East,Direct,Supplier B,3,78.5
+642,115,1500,2024-10-03,Home,West,Referral,Supplier B,3,28.77
+643,156,1072,2024-10-04,Beauty,South,Referral,Supplier A,1,453.98
+644,138,1712,2024-10-05,Electronics,North,Social Media,Supplier A,4,52.95
+645,152,1295,2024-10-06,Sports,North,Email,Supplier C,2,496.11
+646,141,1016,2024-10-07,Home,North,Referral,Supplier C,4,476.67
+647,157,1640,2024-10-08,Clothing,North,Referral,Supplier A,2,85.77
+648,138,1216,2024-10-09,Home,North,Direct,Supplier B,4,278.04
+649,113,1060,2024-10-10,Clothing,East,Referral,Supplier B,1,108.76
+650,194,1938,2024-10-11,Home,West,Referral,Supplier B,2,225.51
+651,104,1615,2024-10-12,Clothing,South,Referral,Supplier A,2,49.48
+652,134,1041,2024-10-13,Beauty,East,Referral,Supplier B,2,127.48
+653,186,1024,2024-10-14,Clothing,West,Direct,Supplier C,3,194.37
+654,192,1038,2024-10-15,Clothing,North,Social Media,Supplier C,3,230.55
+655,174,1802,2024-10-16,Electronics,West,Social Media,Supplier A,4,489.2
+656,117,1130,2024-10-17,Clothing,West,Email,Supplier C,1,407.78
+657,175,1497,2024-10-18,Electronics,North,Referral,Supplier A,3,373.96
+658,108,1228,2024-10-19,Sports,North,Direct,Supplier B,2,277.78
+659,173,1107,2024-10-20,Electronics,North,Email,Supplier B,3,423.2
+660,157,1171,2024-10-21,Beauty,South,Email,Supplier B,1,182.87
+661,116,1434,2024-10-22,Electronics,North,Social Media,Supplier C,3,360.27
+662,106,1477,2024-10-23,Sports,South,Direct,Supplier A,2,497.02
+663,145,1101,2024-10-24,Beauty,North,Direct,Supplier B,4,171.02
+664,112,1865,2024-10-25,Home,South,Direct,Supplier A,2,343.53
+665,139,1523,2024-10-26,Home,West,Social Media,Supplier B,1,425.27
+666,141,1274,2024-10-27,Electronics,East,Social Media,Supplier C,4,459.59
+667,108,1612,2024-10-28,Electronics,West,Social Media,Supplier C,3,364.61
+668,149,1043,2024-10-29,Sports,West,Social Media,Supplier A,3,156.13
+669,126,1954,2024-10-30,Sports,North,Social Media,Supplier C,3,176.62
+670,165,1816,2024-10-31,Clothing,South,Referral,Supplier C,4,29.96
+671,104,1956,2024-11-01,Sports,East,Referral,Supplier A,2,385.23
+672,128,1016,2024-11-02,Clothing,North,Direct,Supplier B,4,40.52
+673,136,1329,2024-11-03,Beauty,North,Email,Supplier C,4,435.03
+674,137,1568,2024-11-04,Electronics,North,Direct,Supplier A,1,76.96
+675,182,1822,2024-11-05,Beauty,West,Email,Supplier C,4,102.5
+676,107,1496,2024-11-06,Sports,South,Social Media,Supplier C,3,248.73
+677,164,1814,2024-11-07,Beauty,South,Email,Supplier C,2,374.18
+678,185,1011,2024-11-08,Beauty,East,Direct,Supplier C,2,86.72
+679,116,1317,2024-11-09,Beauty,South,Direct,Supplier A,2,231.23
+680,170,1591,2024-11-10,Sports,South,Email,Supplier A,3,251.77
+681,188,1215,2024-11-11,Beauty,North,Referral,Supplier A,3,121.9
+682,144,1338,2024-11-12,Clothing,North,Social Media,Supplier C,3,75.47
+683,103,1775,2024-11-13,Sports,West,Social Media,Supplier C,3,421.48
+684,135,1990,2024-11-14,Beauty,North,Direct,Supplier C,3,261.18
+685,169,1660,2024-11-15,Sports,North,Referral,Supplier A,4,26.9
+686,130,1080,2024-11-16,Home,North,Email,Supplier C,3,405.43
+687,118,1726,2024-11-17,Clothing,North,Social Media,Supplier B,3,490.78
+688,160,1484,2024-11-18,Beauty,West,Referral,Supplier C,3,310.84
+689,153,1373,2024-11-19,Home,North,Social Media,Supplier B,3,261.78
+690,138,1975,2024-11-20,Home,East,Referral,Supplier C,2,441.64
+691,190,1709,2024-11-21,Sports,East,Referral,Supplier A,3,477.21
+692,173,1199,2024-11-22,Home,East,Direct,Supplier C,4,382.18
+693,189,1536,2024-11-23,Clothing,East,Social Media,Supplier B,4,233.82
+694,118,1465,2024-11-24,Clothing,North,Email,Supplier B,4,304.27
+695,138,1088,2024-11-25,Electronics,East,Direct,Supplier C,1,356.45
+696,166,1267,2024-11-26,Clothing,North,Direct,Supplier B,2,113.25
+697,144,1654,2024-11-27,Home,West,Email,Supplier B,3,234.66
+698,112,1570,2024-11-28,Clothing,East,Direct,Supplier A,1,418.31
+699,191,1921,2024-11-29,Sports,South,Referral,Supplier C,3,334.27
+700,157,1488,2024-11-30,Electronics,East,Referral,Supplier C,1,217.38
+701,119,1876,2024-12-01,Home,East,Social Media,Supplier C,1,338.41
+702,191,1537,2024-12-02,Electronics,North,Social Media,Supplier B,4,76.75
+703,171,1046,2024-12-03,Home,East,Email,Supplier C,4,212.72
+704,160,1287,2024-12-04,Sports,South,Social Media,Supplier C,1,400.7
+705,138,1777,2024-12-05,Electronics,North,Referral,Supplier A,4,125.84
+706,100,1015,2024-12-06,Beauty,North,Email,Supplier A,1,109.26
+707,102,1710,2024-12-07,Home,West,Email,Supplier A,2,476.39
+708,176,1400,2024-12-08,Beauty,West,Social Media,Supplier B,4,120.75
+709,191,1918,2024-12-09,Electronics,East,Referral,Supplier C,4,145.24
+710,161,1793,2024-12-10,Beauty,West,Email,Supplier A,4,485.42
+711,162,1980,2024-12-11,Beauty,West,Referral,Supplier A,2,372.66
+712,124,1085,2024-12-12,Electronics,West,Referral,Supplier A,1,355.81
+713,155,1249,2024-12-13,Sports,North,Referral,Supplier C,3,429.4
+714,132,1390,2024-12-14,Beauty,North,Social Media,Supplier C,4,75.6
+715,137,1781,2024-12-15,Beauty,North,Direct,Supplier C,1,358.86
+716,105,1334,2024-12-16,Sports,West,Direct,Supplier B,2,261.77
+717,157,1628,2024-12-17,Beauty,North,Email,Supplier B,3,417.99
+718,143,1518,2024-12-18,Beauty,West,Referral,Supplier A,4,263.91
+719,144,1136,2024-12-19,Beauty,North,Social Media,Supplier C,2,317.72
+720,131,1882,2024-12-20,Clothing,North,Referral,Supplier A,2,249.32
+721,144,1687,2024-12-21,Sports,South,Referral,Supplier C,3,249.52
+722,160,1839,2024-12-22,Beauty,East,Social Media,Supplier C,1,388.63
+723,146,1497,2024-12-23,Sports,West,Direct,Supplier C,4,321.71
+724,120,1826,2024-12-24,Home,South,Referral,Supplier B,4,323.97
+725,179,1726,2024-12-25,Home,North,Referral,Supplier B,1,236.14
+726,184,1476,2024-12-26,Beauty,West,Direct,Supplier C,1,274.93
+727,174,1593,2024-12-27,Sports,North,Social Media,Supplier A,1,377.94
+728,135,1222,2024-12-28,Sports,East,Email,Supplier C,3,416.45
+729,198,1989,2024-12-29,Sports,South,Direct,Supplier C,3,354.35
+730,118,1371,2024-12-30,Clothing,East,Email,Supplier A,4,463.56
+731,119,1934,2024-12-31,Home,South,Email,Supplier C,3,413.76
+732,156,1994,2025-01-01,Sports,North,Direct,Supplier A,2,289.69
+733,117,1401,2025-01-02,Sports,East,Referral,Supplier B,4,342.27
+734,146,1442,2025-01-03,Clothing,East,Email,Supplier B,3,464.63
+735,148,1489,2025-01-04,Clothing,North,Email,Supplier A,1,317.2
+736,113,1614,2025-01-05,Sports,East,Social Media,Supplier B,2,415.91
+737,114,1272,2025-01-06,Electronics,West,Referral,Supplier B,1,350.63
+738,130,1525,2025-01-07,Sports,South,Email,Supplier A,4,284.93
+739,100,1158,2025-01-08,Sports,South,Social Media,Supplier B,1,136.08
+740,153,1151,2025-01-09,Clothing,South,Referral,Supplier C,3,224.48
+741,102,1994,2025-01-10,Clothing,West,Direct,Supplier C,3,484.52
+742,115,1619,2025-01-11,Sports,South,Direct,Supplier A,4,335.73
+743,186,1187,2025-01-12,Sports,North,Social Media,Supplier B,1,290.91
+744,156,1812,2025-01-13,Sports,East,Direct,Supplier C,4,467.82
+745,174,1097,2025-01-14,Clothing,West,Email,Supplier C,1,301.53
+746,111,1130,2025-01-15,Sports,South,Referral,Supplier B,2,272.52
+747,173,1804,2025-01-16,Sports,North,Email,Supplier B,3,384.47
+748,195,1170,2025-01-17,Beauty,East,Email,Supplier C,4,362.08
+749,115,1935,2025-01-18,Electronics,East,Direct,Supplier C,2,112.72
+750,171,1985,2025-01-19,Home,West,Email,Supplier A,2,246.23
+751,175,1182,2025-01-20,Electronics,West,Direct,Supplier A,4,246.81
+752,123,1982,2025-01-21,Beauty,West,Referral,Supplier C,4,201.55
+753,127,1363,2025-01-22,Home,North,Referral,Supplier A,2,268.3
+754,107,1038,2025-01-23,Sports,North,Email,Supplier C,1,218.29
+755,191,1526,2025-01-24,Beauty,West,Social Media,Supplier C,2,115.69
+756,135,1887,2025-01-25,Sports,South,Direct,Supplier A,4,217.94
+757,189,1496,2025-01-26,Clothing,East,Direct,Supplier A,2,54.69
+758,107,1515,2025-01-27,Beauty,East,Email,Supplier B,1,296.38
+759,157,1348,2025-01-28,Clothing,North,Direct,Supplier B,3,429.75
+760,159,1981,2025-01-29,Beauty,East,Direct,Supplier B,3,368.14
+761,149,1920,2025-01-30,Beauty,South,Social Media,Supplier C,2,192.99
+762,127,1396,2025-01-31,Clothing,East,Social Media,Supplier A,1,61.79
+763,191,1721,2025-02-01,Home,North,Email,Supplier C,3,117.03
+764,140,1160,2025-02-02,Electronics,North,Social Media,Supplier A,2,281.84
+765,199,1015,2025-02-03,Sports,South,Email,Supplier C,2,119.39
+766,163,1492,2025-02-04,Beauty,South,Referral,Supplier B,1,281.11
+767,126,1425,2025-02-05,Sports,East,Email,Supplier B,4,131.17
+768,162,1107,2025-02-06,Clothing,East,Referral,Supplier B,2,427.48
+769,116,1893,2025-02-07,Sports,North,Email,Supplier C,4,210.69
+770,172,1449,2025-02-08,Clothing,South,Direct,Supplier A,4,137.86
+771,132,1310,2025-02-09,Sports,South,Social Media,Supplier A,3,409.92
+772,183,1738,2025-02-10,Electronics,South,Referral,Supplier B,4,184.56
+773,176,1169,2025-02-11,Electronics,East,Email,Supplier B,1,73.51
+774,191,1545,2025-02-12,Electronics,South,Social Media,Supplier B,3,293.8
+775,128,1413,2025-02-13,Electronics,North,Email,Supplier B,3,299.15
+776,112,1250,2025-02-14,Electronics,North,Social Media,Supplier A,3,363.05
+777,145,1758,2025-02-15,Electronics,East,Social Media,Supplier C,2,135.31
+778,134,1780,2025-02-16,Clothing,West,Email,Supplier C,2,233.01
+779,105,1140,2025-02-17,Beauty,East,Referral,Supplier C,4,155.54
+780,181,1273,2025-02-18,Sports,West,Referral,Supplier C,3,58.86
+781,168,1415,2025-02-19,Electronics,South,Direct,Supplier B,3,440.77
+782,146,1607,2025-02-20,Clothing,East,Social Media,Supplier B,1,369.86
+783,124,1738,2025-02-21,Clothing,North,Direct,Supplier B,4,164.7
+784,165,1890,2025-02-22,Clothing,South,Direct,Supplier C,1,307.7
+785,109,1038,2025-02-23,Beauty,North,Email,Supplier B,4,116.61
+786,155,1813,2025-02-24,Sports,South,Email,Supplier B,4,447.31
+787,129,1028,2025-02-25,Beauty,East,Email,Supplier A,2,75.16
+788,104,1957,2025-02-26,Home,West,Social Media,Supplier A,2,21.84
+789,132,1476,2025-02-27,Clothing,South,Email,Supplier B,1,260.96
+790,164,1317,2025-02-28,Home,West,Email,Supplier A,4,299.9
+791,117,1244,2025-03-01,Electronics,South,Social Media,Supplier A,3,297.9
+792,195,1747,2025-03-02,Electronics,North,Social Media,Supplier B,2,46.17
+793,148,1696,2025-03-03,Beauty,North,Referral,Supplier B,3,170.74
+794,110,1271,2025-03-04,Sports,South,Email,Supplier B,1,259.62
+795,184,1439,2025-03-05,Home,West,Email,Supplier B,2,123.96
+796,125,1747,2025-03-06,Sports,East,Email,Supplier C,2,438.86
+797,162,1238,2025-03-07,Beauty,East,Referral,Supplier C,4,61.81
+798,188,1376,2025-03-08,Electronics,North,Email,Supplier B,1,253.94
+799,185,1265,2025-03-09,Sports,East,Referral,Supplier A,4,351.88
+800,158,1925,2025-03-10,Sports,North,Direct,Supplier B,2,145.64
+801,126,1920,2025-03-11,Electronics,East,Referral,Supplier B,1,319.64
+802,148,1358,2025-03-12,Home,South,Direct,Supplier A,2,418.1
+803,176,1339,2025-03-13,Electronics,North,Email,Supplier C,1,111.36
+804,132,1388,2025-03-14,Sports,North,Direct,Supplier B,2,460.27
+805,197,1576,2025-03-15,Home,South,Referral,Supplier B,3,285.71
+806,198,1989,2025-03-16,Home,North,Social Media,Supplier C,3,163.63
+807,100,1688,2025-03-17,Electronics,East,Direct,Supplier C,4,226.81
+808,120,1002,2025-03-18,Sports,East,Direct,Supplier A,3,169.85
+809,154,1428,2025-03-19,Beauty,North,Email,Supplier C,2,368.05
+810,105,1141,2025-03-20,Sports,East,Referral,Supplier C,2,402.22
+811,191,1375,2025-03-21,Clothing,West,Direct,Supplier C,3,419.81
+812,180,1669,2025-03-22,Beauty,North,Direct,Supplier A,4,493.17
+813,168,1323,2025-03-23,Home,South,Direct,Supplier C,3,399.82
+814,194,1145,2025-03-24,Beauty,West,Direct,Supplier C,1,308.66
+815,104,1957,2025-03-25,Home,North,Social Media,Supplier A,1,182.83
+816,102,1292,2025-03-26,Home,South,Referral,Supplier C,1,281.41
+817,152,1664,2025-03-27,Beauty,East,Email,Supplier C,3,39.71
+818,122,1431,2025-03-28,Home,South,Email,Supplier A,3,377.52
+819,152,1704,2025-03-29,Home,West,Social Media,Supplier B,3,234.06
+820,136,1948,2025-03-30,Clothing,East,Referral,Supplier A,1,29.61
+821,173,1974,2025-03-31,Sports,North,Direct,Supplier C,4,50.0
+822,173,1584,2025-04-01,Sports,East,Social Media,Supplier C,2,205.98
+823,182,1398,2025-04-02,Clothing,North,Referral,Supplier C,3,300.04
+824,116,1816,2025-04-03,Beauty,North,Direct,Supplier A,4,242.82
+825,184,1888,2025-04-04,Electronics,South,Social Media,Supplier C,2,317.22
+826,177,1343,2025-04-05,Electronics,South,Referral,Supplier C,2,250.54
+827,172,1963,2025-04-06,Electronics,South,Email,Supplier A,2,337.62
+828,100,1139,2025-04-07,Clothing,West,Email,Supplier B,4,125.18
+829,150,1186,2025-04-08,Clothing,West,Referral,Supplier B,4,74.16
+830,144,1804,2025-04-09,Home,South,Email,Supplier C,1,306.29
+831,176,1060,2025-04-10,Electronics,West,Referral,Supplier A,4,252.65
+832,103,1996,2025-04-11,Beauty,East,Direct,Supplier C,4,32.9
+833,161,1938,2025-04-12,Beauty,East,Referral,Supplier A,4,202.63
+834,164,1379,2025-04-13,Electronics,West,Direct,Supplier A,2,70.94
+835,131,1709,2025-04-14,Electronics,West,Social Media,Supplier B,3,275.05
+836,133,1806,2025-04-15,Electronics,East,Referral,Supplier B,1,209.97
+837,191,1439,2025-04-16,Clothing,North,Social Media,Supplier A,3,314.31
+838,194,1318,2025-04-17,Clothing,East,Email,Supplier C,3,406.69
+839,171,1301,2025-04-18,Clothing,East,Direct,Supplier B,4,163.84
+840,138,1343,2025-04-19,Sports,West,Referral,Supplier C,1,481.81
+841,125,1010,2025-04-20,Beauty,East,Social Media,Supplier B,3,277.1
+842,133,1061,2025-04-21,Beauty,West,Direct,Supplier B,3,316.78
+843,153,1844,2025-04-22,Home,West,Direct,Supplier C,1,346.72
+844,102,1225,2025-04-23,Clothing,South,Email,Supplier B,4,340.03
+845,149,1152,2025-04-24,Sports,East,Email,Supplier B,3,265.27
+846,111,1710,2025-04-25,Sports,North,Direct,Supplier C,2,225.81
+847,164,1563,2025-04-26,Beauty,South,Direct,Supplier B,3,45.82
+848,153,1771,2025-04-27,Clothing,West,Referral,Supplier B,2,30.6
+849,104,1570,2025-04-28,Home,West,Direct,Supplier B,4,191.82
+850,193,1583,2025-04-29,Clothing,North,Referral,Supplier C,3,180.16
+851,193,1659,2025-04-30,Electronics,West,Direct,Supplier A,1,206.09
+852,156,1860,2025-05-01,Clothing,East,Email,Supplier C,1,86.42
+853,116,1574,2025-05-02,Electronics,South,Referral,Supplier A,3,374.32
+854,146,1309,2025-05-03,Electronics,West,Social Media,Supplier B,4,431.34
+855,122,1884,2025-05-04,Home,West,Email,Supplier A,4,470.58
+856,178,1242,2025-05-05,Beauty,North,Referral,Supplier C,1,256.33
+857,184,1492,2025-05-06,Clothing,East,Referral,Supplier C,3,356.42
+858,113,1365,2025-05-07,Electronics,West,Social Media,Supplier B,4,430.66
+859,165,1329,2025-05-08,Clothing,North,Referral,Supplier A,1,220.78
+860,174,1106,2025-05-09,Beauty,West,Direct,Supplier B,2,168.52
+861,150,1225,2025-05-10,Beauty,North,Social Media,Supplier B,3,469.63
+862,137,1824,2025-05-11,Sports,North,Email,Supplier C,2,267.52
+863,163,1217,2025-05-12,Beauty,East,Email,Supplier A,2,258.68
+864,197,1936,2025-05-13,Home,West,Direct,Supplier A,4,105.64
+865,137,1752,2025-05-14,Electronics,East,Email,Supplier A,4,71.91
+866,149,1505,2025-05-15,Sports,North,Referral,Supplier A,4,424.21
+867,197,1258,2025-05-16,Home,South,Referral,Supplier B,3,314.78
+868,181,1887,2025-05-17,Clothing,West,Direct,Supplier B,2,176.4
+869,129,1773,2025-05-18,Electronics,South,Email,Supplier C,3,112.03
+870,178,1516,2025-05-19,Beauty,West,Email,Supplier B,4,286.64
+871,190,1772,2025-05-20,Electronics,East,Direct,Supplier B,2,300.28
+872,150,1053,2025-05-21,Clothing,East,Social Media,Supplier C,3,119.36
+873,162,1046,2025-05-22,Sports,East,Email,Supplier C,3,428.67
+874,197,1726,2025-05-23,Sports,East,Social Media,Supplier C,1,60.45
+875,151,1688,2025-05-24,Sports,East,Email,Supplier B,3,190.92
+876,137,1520,2025-05-25,Beauty,South,Email,Supplier B,4,346.58
+877,196,1098,2025-05-26,Home,East,Email,Supplier C,3,151.58
+878,187,1019,2025-05-27,Home,North,Email,Supplier C,2,417.28
+879,178,1889,2025-05-28,Electronics,North,Referral,Supplier C,3,375.14
+880,129,1752,2025-05-29,Beauty,South,Social Media,Supplier B,1,398.73
+881,150,1572,2025-05-30,Sports,West,Social Media,Supplier B,2,77.17
+882,180,1890,2025-05-31,Sports,North,Email,Supplier A,2,87.46
+883,104,1489,2025-06-01,Clothing,West,Email,Supplier B,1,157.51
+884,128,1418,2025-06-02,Clothing,South,Social Media,Supplier B,4,268.68
+885,103,1689,2025-06-03,Sports,West,Referral,Supplier B,2,379.05
+886,109,1849,2025-06-04,Sports,West,Direct,Supplier C,4,421.53
+887,155,1061,2025-06-05,Beauty,West,Direct,Supplier B,2,358.08
+888,116,1144,2025-06-06,Home,West,Social Media,Supplier C,2,465.73
+889,173,1215,2025-06-07,Clothing,South,Email,Supplier A,4,374.6
+890,116,1002,2025-06-08,Home,North,Email,Supplier A,2,167.01
+891,183,1159,2025-06-09,Beauty,East,Referral,Supplier C,4,147.24
+892,187,1738,2025-06-10,Sports,West,Direct,Supplier C,1,354.17
+893,168,1997,2025-06-11,Home,North,Referral,Supplier C,4,112.58
+894,133,1780,2025-06-12,Sports,North,Direct,Supplier B,1,64.5
+895,105,1119,2025-06-13,Sports,South,Social Media,Supplier A,2,275.47
+896,152,1892,2025-06-14,Electronics,North,Direct,Supplier C,4,414.39
+897,165,1088,2025-06-15,Home,South,Referral,Supplier B,2,68.66
+898,176,1328,2025-06-16,Home,West,Referral,Supplier A,4,400.11
+899,142,1579,2025-06-17,Sports,West,Referral,Supplier B,1,409.55
+900,174,1909,2025-06-18,Beauty,East,Social Media,Supplier A,1,251.49
+901,122,1356,2025-06-19,Electronics,East,Direct,Supplier B,4,47.51
+902,154,1609,2025-06-20,Sports,East,Direct,Supplier A,1,103.8
+903,179,1266,2025-06-21,Clothing,North,Referral,Supplier A,2,359.56
+904,194,1616,2025-06-22,Clothing,West,Direct,Supplier B,2,361.65
+905,174,1951,2025-06-23,Electronics,South,Email,Supplier C,3,451.21
+906,115,1322,2025-06-24,Beauty,East,Email,Supplier A,1,299.69
+907,107,1634,2025-06-25,Sports,South,Email,Supplier C,2,79.57
+908,103,1987,2025-06-26,Home,South,Direct,Supplier B,4,78.28
+909,103,1540,2025-06-27,Electronics,East,Social Media,Supplier C,1,366.14
+910,155,1648,2025-06-28,Beauty,West,Social Media,Supplier C,2,108.22
+911,124,1194,2025-06-29,Home,East,Social Media,Supplier C,1,177.63
+912,166,1920,2025-06-30,Clothing,South,Social Media,Supplier C,4,253.86
+913,195,1737,2025-07-01,Clothing,East,Email,Supplier C,2,31.89
+914,166,1331,2025-07-02,Home,South,Email,Supplier A,3,139.43
+915,126,1169,2025-07-03,Electronics,South,Referral,Supplier A,3,215.79
+916,192,1520,2025-07-04,Clothing,East,Direct,Supplier A,1,154.23
+917,131,1462,2025-07-05,Sports,North,Direct,Supplier B,4,85.46
+918,149,1039,2025-07-06,Home,East,Social Media,Supplier C,2,369.45
+919,160,1536,2025-07-07,Home,North,Email,Supplier A,4,410.31
+920,150,1260,2025-07-08,Clothing,South,Social Media,Supplier B,2,143.59
+921,118,1394,2025-07-09,Electronics,South,Referral,Supplier A,1,391.72
+922,120,1954,2025-07-10,Sports,North,Direct,Supplier A,2,205.07
+923,104,1225,2025-07-11,Electronics,South,Direct,Supplier C,4,263.21
+924,181,1983,2025-07-12,Beauty,North,Social Media,Supplier B,4,430.88
+925,191,1123,2025-07-13,Beauty,North,Referral,Supplier C,1,379.98
+926,141,1974,2025-07-14,Clothing,South,Direct,Supplier C,4,406.46
+927,160,1037,2025-07-15,Clothing,West,Referral,Supplier A,2,85.69
+928,121,1327,2025-07-16,Clothing,North,Referral,Supplier C,1,53.47
+929,120,1250,2025-07-17,Beauty,East,Social Media,Supplier B,2,448.83
+930,169,1900,2025-07-18,Electronics,East,Email,Supplier C,4,206.16
+931,100,1175,2025-07-19,Electronics,South,Social Media,Supplier C,1,158.18
+932,104,1601,2025-07-20,Clothing,West,Email,Supplier C,2,367.85
+933,111,1913,2025-07-21,Sports,South,Referral,Supplier A,4,421.48
+934,189,1453,2025-07-22,Electronics,West,Email,Supplier B,4,434.0
+935,145,1036,2025-07-23,Beauty,North,Referral,Supplier A,3,171.68
+936,133,1315,2025-07-24,Home,North,Direct,Supplier A,4,429.06
+937,148,1687,2025-07-25,Home,North,Direct,Supplier A,2,39.65
+938,177,1972,2025-07-26,Home,North,Direct,Supplier A,1,43.84
+939,189,1795,2025-07-27,Sports,East,Social Media,Supplier A,3,319.29
+940,144,1964,2025-07-28,Clothing,East,Social Media,Supplier B,4,50.29
+941,126,1972,2025-07-29,Beauty,South,Referral,Supplier C,4,175.81
+942,172,1592,2025-07-30,Sports,West,Direct,Supplier A,4,342.92
+943,125,1113,2025-07-31,Beauty,North,Social Media,Supplier A,2,181.89
+944,146,1039,2025-08-01,Beauty,North,Direct,Supplier B,3,106.21
+945,185,1300,2025-08-02,Clothing,West,Social Media,Supplier B,2,155.05
+946,155,1223,2025-08-03,Home,West,Email,Supplier C,3,239.64
+947,193,1317,2025-08-04,Clothing,South,Email,Supplier B,1,248.19
+948,162,1348,2025-08-05,Sports,West,Direct,Supplier C,2,395.84
+949,147,1114,2025-08-06,Sports,North,Referral,Supplier A,2,380.07
+950,160,1697,2025-08-07,Sports,North,Social Media,Supplier A,1,239.27
+951,180,1322,2025-08-08,Clothing,North,Social Media,Supplier C,3,425.92
+952,125,1567,2025-08-09,Beauty,North,Email,Supplier B,4,74.83
+953,135,1039,2025-08-10,Beauty,North,Email,Supplier C,1,142.57
+954,100,1865,2025-08-11,Electronics,South,Referral,Supplier B,4,417.43
+955,107,1039,2025-08-12,Sports,North,Referral,Supplier A,4,201.44
+956,198,1858,2025-08-13,Beauty,South,Referral,Supplier B,1,490.97
+957,151,1972,2025-08-14,Electronics,North,Direct,Supplier C,3,243.8
+958,178,1748,2025-08-15,Beauty,East,Email,Supplier C,4,400.13
+959,146,1288,2025-08-16,Sports,East,Direct,Supplier A,1,213.11
+960,155,1261,2025-08-17,Home,East,Email,Supplier B,2,223.98
+961,185,1215,2025-08-18,Sports,East,Email,Supplier B,2,203.78
+962,113,1146,2025-08-19,Clothing,South,Social Media,Supplier B,2,365.16
+963,189,1335,2025-08-20,Beauty,South,Email,Supplier A,1,282.81
+964,127,1167,2025-08-21,Beauty,West,Email,Supplier B,2,473.01
+965,186,1091,2025-08-22,Clothing,North,Direct,Supplier C,4,140.43
+966,177,1352,2025-08-23,Clothing,East,Email,Supplier B,2,68.27
+967,187,1570,2025-08-24,Home,South,Direct,Supplier A,2,208.77
+968,101,1570,2025-08-25,Beauty,North,Referral,Supplier B,4,316.02
+969,125,1815,2025-08-26,Beauty,North,Email,Supplier B,2,433.18
+970,113,1680,2025-08-27,Home,South,Email,Supplier C,4,186.17
+971,158,1780,2025-08-28,Electronics,East,Direct,Supplier B,2,333.82
+972,155,1362,2025-08-29,Home,West,Referral,Supplier C,4,188.1
+973,106,1556,2025-08-30,Sports,North,Social Media,Supplier C,2,316.27
+974,102,1344,2025-08-31,Beauty,West,Referral,Supplier A,4,444.71
+975,122,1692,2025-09-01,Clothing,East,Direct,Supplier C,1,131.05
+976,117,1169,2025-09-02,Sports,East,Referral,Supplier C,4,214.04
+977,137,1355,2025-09-03,Beauty,West,Direct,Supplier A,2,496.77
+978,198,1190,2025-09-04,Home,East,Direct,Supplier C,2,436.91
+979,114,1666,2025-09-05,Sports,North,Social Media,Supplier A,3,291.03
+980,163,1421,2025-09-06,Beauty,West,Email,Supplier B,4,267.98
+981,188,1699,2025-09-07,Electronics,East,Direct,Supplier A,1,156.61
+982,127,1006,2025-09-08,Electronics,West,Direct,Supplier C,4,268.26
+983,173,1132,2025-09-09,Clothing,North,Social Media,Supplier A,4,427.13
+984,138,1746,2025-09-10,Beauty,East,Direct,Supplier C,1,348.88
+985,156,1556,2025-09-11,Electronics,North,Email,Supplier B,4,159.22
+986,116,1825,2025-09-12,Home,East,Social Media,Supplier A,1,116.7
+987,185,1760,2025-09-13,Beauty,South,Email,Supplier B,1,147.3
+988,189,1030,2025-09-14,Home,East,Email,Supplier C,4,101.48
+989,143,1534,2025-09-15,Home,West,Social Media,Supplier C,4,65.91
+990,124,1425,2025-09-16,Electronics,East,Direct,Supplier B,2,221.19
+991,116,1393,2025-09-17,Beauty,North,Email,Supplier A,2,74.38
+992,112,1671,2025-09-18,Sports,North,Email,Supplier A,3,102.52
+993,183,1362,2025-09-19,Electronics,East,Email,Supplier C,3,282.72
+994,124,1436,2025-09-20,Electronics,West,Email,Supplier B,4,99.01
+995,167,1669,2025-09-21,Beauty,South,Social Media,Supplier B,1,50.66
+996,109,1550,2025-09-22,Beauty,West,Social Media,Supplier A,3,172.35
+997,166,1926,2025-09-23,Home,South,Referral,Supplier A,4,125.75
+998,117,1081,2025-09-24,Beauty,North,Referral,Supplier A,3,267.35
+999,199,1355,2025-09-25,Home,West,Email,Supplier B,1,69.14
+1000,185,1257,2025-09-26,Electronics,South,Direct,Supplier A,4,380.85

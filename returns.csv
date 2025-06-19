@@ -1,0 +1,301 @@
+return_id,order_id,return_date,return_reason,return_status
+1,61,2023-01-10,Not as described,1
+2,202,2023-01-11,Damaged,1
+3,190,2023-01-12,Not as described,1
+4,106,2023-01-13,Not as described,1
+5,455,2023-01-14,Changed mind,1
+6,137,2023-01-15,Not as described,1
+7,160,2023-01-16,Changed mind,1
+8,651,2023-01-17,Changed mind,1
+9,556,2023-01-18,Late delivery,1
+10,139,2023-01-19,Late delivery,1
+11,470,2023-01-20,Damaged,1
+12,23,2023-01-21,Not as described,1
+13,303,2023-01-22,Damaged,1
+14,926,2023-01-23,Not as described,1
+15,662,2023-01-24,Late delivery,1
+16,713,2023-01-25,Late delivery,1
+17,290,2023-01-26,Not as described,1
+18,134,2023-01-27,Not as described,1
+19,648,2023-01-28,Late delivery,1
+20,331,2023-01-29,Late delivery,1
+21,272,2023-01-30,Damaged,1
+22,974,2023-01-31,Late delivery,1
+23,430,2023-02-01,Not as described,1
+24,598,2023-02-02,Damaged,1
+25,417,2023-02-03,Not as described,1
+26,386,2023-02-04,Changed mind,1
+27,913,2023-02-05,Damaged,1
+28,638,2023-02-06,Not as described,1
+29,576,2023-02-07,Late delivery,1
+30,786,2023-02-08,Changed mind,1
+31,250,2023-02-09,Not as described,1
+32,192,2023-02-10,Damaged,1
+33,884,2023-02-11,Not as described,1
+34,646,2023-02-12,Changed mind,1
+35,34,2023-02-13,Damaged,1
+36,8,2023-02-14,Changed mind,1
+37,779,2023-02-15,Not as described,1
+38,104,2023-02-16,Late delivery,1
+39,711,2023-02-17,Late delivery,1
+40,526,2023-02-18,Not as described,1
+41,625,2023-02-19,Not as described,1
+42,328,2023-02-20,Not as described,1
+43,621,2023-02-21,Damaged,1
+44,512,2023-02-22,Changed mind,1
+45,370,2023-02-23,Changed mind,1
+46,630,2023-02-24,Changed mind,1
+47,860,2023-02-25,Not as described,1
+48,360,2023-02-26,Changed mind,1
+49,857,2023-02-27,Not as described,1
+50,690,2023-02-28,Damaged,1
+51,110,2023-03-01,Late delivery,1
+52,741,2023-03-02,Not as described,1
+53,861,2023-03-03,Not as described,1
+54,113,2023-03-04,Late delivery,1
+55,501,2023-03-05,Late delivery,1
+56,995,2023-03-06,Damaged,1
+57,124,2023-03-07,Changed mind,1
+58,742,2023-03-08,Not as described,1
+59,818,2023-03-09,Changed mind,1
+60,319,2023-03-10,Not as described,1
+61,883,2023-03-11,Damaged,1
+62,195,2023-03-12,Late delivery,1
+63,233,2023-03-13,Damaged,1
+64,778,2023-03-14,Late delivery,1
+65,213,2023-03-15,Changed mind,1
+66,305,2023-03-16,Changed mind,1
+67,359,2023-03-17,Damaged,1
+68,391,2023-03-18,Late delivery,1
+69,467,2023-03-19,Damaged,1
+70,767,2023-03-20,Late delivery,1
+71,535,2023-03-21,Late delivery,1
+72,121,2023-03-22,Changed mind,1
+73,33,2023-03-23,Changed mind,1
+74,131,2023-03-24,Late delivery,1
+75,9,2023-03-25,Late delivery,1
+76,361,2023-03-26,Late delivery,1
+77,652,2023-03-27,Changed mind,1
+78,172,2023-03-28,Changed mind,1
+79,240,2023-03-29,Not as described,1
+80,523,2023-03-30,Late delivery,1
+81,787,2023-03-31,Not as described,1
+82,86,2023-04-01,Late delivery,1
+83,383,2023-04-02,Changed mind,1
+84,448,2023-04-03,Not as described,1
+85,717,2023-04-04,Not as described,1
+86,12,2023-04-05,Damaged,1
+87,532,2023-04-06,Late delivery,1
+88,304,2023-04-07,Changed mind,1
+89,212,2023-04-08,Damaged,1
+90,890,2023-04-09,Damaged,1
+91,813,2023-04-10,Late delivery,1
+92,578,2023-04-11,Damaged,1
+93,757,2023-04-12,Late delivery,1
+94,136,2023-04-13,Damaged,1
+95,629,2023-04-14,Late delivery,1
+96,796,2023-04-15,Changed mind,1
+97,411,2023-04-16,Late delivery,1
+98,701,2023-04-17,Late delivery,1
+99,502,2023-04-18,Not as described,1
+100,157,2023-04-19,Changed mind,1
+101,161,2023-04-20,Changed mind,1
+102,892,2023-04-21,Changed mind,1
+103,952,2023-04-22,Damaged,1
+104,253,2023-04-23,Not as described,1
+105,534,2023-04-24,Changed mind,1
+106,60,2023-04-25,Damaged,1
+107,828,2023-04-26,Damaged,1
+108,559,2023-04-27,Damaged,1
+109,790,2023-04-28,Not as described,1
+110,782,2023-04-29,Damaged,1
+111,566,2023-04-30,Not as described,1
+112,245,2023-05-01,Late delivery,1
+113,346,2023-05-02,Damaged,1
+114,408,2023-05-03,Changed mind,1
+115,587,2023-05-04,Damaged,1
+116,914,2023-05-05,Late delivery,1
+117,505,2023-05-06,Late delivery,1
+118,943,2023-05-07,Damaged,1
+119,287,2023-05-08,Late delivery,1
+120,234,2023-05-09,Not as described,1
+121,18,2023-05-10,Not as described,1
+122,292,2023-05-11,Damaged,1
+123,142,2023-05-12,Not as described,1
+124,50,2023-05-13,Not as described,1
+125,886,2023-05-14,Changed mind,1
+126,627,2023-05-15,Damaged,1
+127,435,2023-05-16,Late delivery,1
+128,956,2023-05-17,Damaged,1
+129,462,2023-05-18,Not as described,1
+130,100,2023-05-19,Changed mind,1
+131,919,2023-05-20,Damaged,1
+132,558,2023-05-21,Damaged,1
+133,989,2023-05-22,Not as described,1
+134,488,2023-05-23,Not as described,1
+135,490,2023-05-24,Damaged,1
+136,976,2023-05-25,Not as described,1
+137,619,2023-05-26,Not as described,1
+138,242,2023-05-27,Not as described,1
+139,922,2023-05-28,Not as described,1
+140,83,2023-05-29,Not as described,1
+141,780,2023-05-30,Changed mind,1
+142,263,2023-05-31,Not as described,1
+143,36,2023-06-01,Late delivery,1
+144,54,2023-06-02,Damaged,1
+145,736,2023-06-03,Changed mind,1
+146,719,2023-06-04,Changed mind,1
+147,183,2023-06-05,Not as described,1
+148,915,2023-06-06,Damaged,1
+149,571,2023-06-07,Late delivery,1
+150,185,2023-06-08,Not as described,1
+151,401,2023-06-09,Damaged,1
+152,32,2023-06-10,Not as described,1
+153,582,2023-06-11,Not as described,1
+154,437,2023-06-12,Not as described,1
+155,826,2023-06-13,Not as described,1
+156,704,2023-06-14,Not as described,1
+157,583,2023-06-15,Not as described,1
+158,175,2023-06-16,Not as described,1
+159,870,2023-06-17,Late delivery,1
+160,299,2023-06-18,Changed mind,1
+161,1000,2023-06-19,Late delivery,1
+162,364,2023-06-20,Not as described,1
+163,617,2023-06-21,Not as described,1
+164,338,2023-06-22,Late delivery,1
+165,244,2023-06-23,Late delivery,1
+166,41,2023-06-24,Changed mind,1
+167,506,2023-06-25,Late delivery,1
+168,968,2023-06-26,Changed mind,1
+169,929,2023-06-27,Not as described,1
+170,538,2023-06-28,Damaged,1
+171,317,2023-06-29,Damaged,1
+172,525,2023-06-30,Damaged,1
+173,654,2023-07-01,Damaged,1
+174,115,2023-07-02,Not as described,1
+175,692,2023-07-03,Damaged,1
+176,342,2023-07-04,Late delivery,1
+177,15,2023-07-05,Late delivery,1
+178,614,2023-07-06,Damaged,1
+179,824,2023-07-07,Late delivery,1
+180,687,2023-07-08,Changed mind,1
+181,847,2023-07-09,Not as described,1
+182,800,2023-07-10,Damaged,1
+183,840,2023-07-11,Damaged,1
+184,665,2023-07-12,Not as described,1
+185,670,2023-07-13,Late delivery,1
+186,295,2023-07-14,Not as described,1
+187,642,2023-07-15,Not as described,1
+188,721,2023-07-16,Late delivery,1
+189,735,2023-07-17,Not as described,1
+190,228,2023-07-18,Late delivery,1
+191,345,2023-07-19,Late delivery,1
+192,400,2023-07-20,Not as described,1
+193,449,2023-07-21,Changed mind,1
+194,543,2023-07-22,Late delivery,1
+195,222,2023-07-23,Not as described,1
+196,859,2023-07-24,Late delivery,1
+197,65,2023-07-25,Changed mind,1
+198,112,2023-07-26,Changed mind,1
+199,24,2023-07-27,Damaged,1
+200,882,2023-07-28,Late delivery,1
+201,672,2023-07-29,Late delivery,1
+202,938,2023-07-30,Not as described,1
+203,832,2023-07-31,Late delivery,1
+204,834,2023-08-01,Damaged,1
+205,443,2023-08-02,Changed mind,1
+206,390,2023-08-03,Changed mind,1
+207,712,2023-08-04,Damaged,1
+208,994,2023-08-05,Late delivery,1
+209,385,2023-08-06,Late delivery,1
+210,895,2023-08-07,Damaged,1
+211,229,2023-08-08,Not as described,1
+212,649,2023-08-09,Changed mind,1
+213,6,2023-08-10,Damaged,1
+214,447,2023-08-11,Damaged,1
+215,354,2023-08-12,Late delivery,1
+216,500,2023-08-13,Changed mind,1
+217,681,2023-08-14,Late delivery,1
+218,942,2023-08-15,Damaged,1
+219,451,2023-08-16,Not as described,1
+220,801,2023-08-17,Changed mind,1
+221,591,2023-08-18,Damaged,1
+222,129,2023-08-19,Damaged,1
+223,911,2023-08-20,Not as described,1
+224,514,2023-08-21,Damaged,1
+225,835,2023-08-22,Damaged,1
+226,977,2023-08-23,Changed mind,1
+227,858,2023-08-24,Changed mind,1
+228,438,2023-08-25,Changed mind,1
+229,270,2023-08-26,Late delivery,1
+230,608,2023-08-27,Not as described,1
+231,854,2023-08-28,Changed mind,1
+232,596,2023-08-29,Late delivery,1
+233,286,2023-08-30,Late delivery,1
+234,899,2023-08-31,Not as described,1
+235,660,2023-09-01,Not as described,1
+236,951,2023-09-02,Damaged,1
+237,715,2023-09-03,Late delivery,1
+238,822,2023-09-04,Changed mind,1
+239,298,2023-09-05,Not as described,1
+240,553,2023-09-06,Late delivery,1
+241,220,2023-09-07,Changed mind,1
+242,492,2023-09-08,Late delivery,1
+243,720,2023-09-09,Not as described,1
+244,493,2023-09-10,Damaged,1
+245,343,2023-09-11,Late delivery,1
+246,988,2023-09-12,Changed mind,1
+247,205,2023-09-13,Not as described,1
+248,481,2023-09-14,Damaged,1
+249,906,2023-09-15,Changed mind,1
+250,784,2023-09-16,Changed mind,1
+251,73,2023-09-17,Changed mind,1
+252,992,2023-09-18,Late delivery,1
+253,641,2023-09-19,Not as described,1
+254,276,2023-09-20,Changed mind,1
+255,934,2023-09-21,Late delivery,1
+256,427,2023-09-22,Not as described,1
+257,656,2023-09-23,Not as described,1
+258,799,2023-09-24,Late delivery,1
+259,267,2023-09-25,Late delivery,1
+260,935,2023-09-26,Changed mind,1
+261,774,2023-09-27,Not as described,1
+262,666,2023-09-28,Damaged,1
+263,703,2023-09-29,Late delivery,1
+264,356,2023-09-30,Not as described,1
+265,94,2023-10-01,Not as described,1
+266,316,2023-10-02,Changed mind,1
+267,536,2023-10-03,Damaged,1
+268,645,2023-10-04,Changed mind,1
+269,727,2023-10-05,Damaged,1
+270,731,2023-10-06,Damaged,1
+271,852,2023-10-07,Late delivery,1
+272,248,2023-10-08,Not as described,1
+273,716,2023-10-09,Not as described,1
+274,339,2023-10-10,Not as described,1
+275,432,2023-10-11,Damaged,1
+276,749,2023-10-12,Not as described,1
+277,341,2023-10-13,Late delivery,1
+278,264,2023-10-14,Damaged,1
+279,572,2023-10-15,Damaged,1
+280,174,2023-10-16,Damaged,1
+281,186,2023-10-17,Damaged,1
+282,831,2023-10-18,Late delivery,1
+283,601,2023-10-19,Not as described,1
+284,600,2023-10-20,Late delivery,1
+285,149,2023-10-21,Not as described,1
+286,581,2023-10-22,Late delivery,1
+287,208,2023-10-23,Changed mind,1
+288,471,2023-10-24,Changed mind,1
+289,363,2023-10-25,Changed mind,1
+290,460,2023-10-26,Changed mind,1
+291,879,2023-10-27,Damaged,1
+292,257,2023-10-28,Damaged,1
+293,933,2023-10-29,Late delivery,1
+294,973,2023-10-30,Late delivery,1
+295,622,2023-10-31,Changed mind,1
+296,981,2023-11-01,Not as described,1
+297,261,2023-11-02,Changed mind,1
+298,739,2023-11-03,Late delivery,1
+299,947,2023-11-04,Changed mind,1
+300,236,2023-11-05,Late delivery,1
