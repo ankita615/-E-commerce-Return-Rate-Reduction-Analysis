@@ -1,7 +1,3 @@
-Here is a complete `README.md` for your **E-commerce Return Rate Reduction Analysis** project:
-
----
-
 # 📦 E-commerce Return Rate Reduction Analysis
 
 ## 📌 Objective
